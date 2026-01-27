@@ -76,6 +76,20 @@
             var datumElemek = datum.Split('.');
             Console.WriteLine($"Év:{datumElemek[0]},hónap:{datumElemek[1]},nap:{datumElemek[2]}");
 
+            //Szövegek trimmelése (felesleges karakterek levágása
+            string rosszAdat = "     Szabó Elek       ";
+            Console.WriteLine(rosszAdat.Trim());
+            Console.WriteLine(rosszAdat.TrimEnd());
+            Console.WriteLine(rosszAdat.TrimStart());
+
+            //1. Kérjen be konzolról egy szöveget és írassa ki nagybetűsen!
+            //2. Kérjen be konzolról egy szöveget és írassa ki kisbetűsen!
+            //3. Kérjen be konzolról két szöveget és írassa ki a programmal, hogy a szövegek megegyeznek, vagy nem egyeznek meg!
+            //4. Kérjen be konzolról egy szöveget és írassa ki a programmal a szöveg hosszát
+
+
+
+
 
 
         }
