@@ -122,6 +122,21 @@
             {
                 Console.WriteLine("Nincs benne");
             }
+
+            //Határozza meg, hogy hány db 50-nél nagyobb és 80-nál kisebb elem van a tömbben!
+
+            int darabSzam = 0;
+
+            for (int i = 0; i < sokSzam.Length; i++)
+            {
+                if (sokSzam[i]>50 && sokSzam[i]<80)
+                {
+                    darabSzam++;
+                }
+            }
+
+            Console.WriteLine($"50-nél nagyobb, 80-nál kisebb:{darabSzam}");
+
         }
     }
 }
