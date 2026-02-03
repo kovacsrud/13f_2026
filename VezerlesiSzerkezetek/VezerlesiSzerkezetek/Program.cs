@@ -46,7 +46,7 @@
             }
 
             //többszörös elágazás
-            int bmi = 32;
+            double bmi = 32;
             if (bmi < 16)
             {
                 Console.WriteLine("Kóros soványság");
@@ -74,6 +74,33 @@
                 Console.WriteLine("Extrém elhízás");
             }
 
+            //Rossz!!
+            //string bmiszoveg = bmi switch
+            //{
+            //    < 16 => "Kóros soványság",
+            //    >= 16 => "Mérsékelt soványság",
+            //    >= 17 => "Enyhe soványság",
+            //    >= 18.5 => "Normál testsúly",
+            //    >= 25 => "Túlsúly",
+            //    >= 30 => "Elhízás",
+            //    >= 35 => "Túlzott elhízás",
+
+            //};
+
+            string bmiszoveg = bmi switch
+            {
+                >= 40 => "Extrém elhízás",
+                >= 35 => "Túlzott elhízás",
+                >= 30 => "Elhízás",
+                >= 25 => "Túlsúly",
+                >= 18.5 => "Normál testsúly",
+                >= 17 => "Enyhe soványság",
+                >= 16 => "Mérsékelt soványság",
+                _=> "Kóros soványság"
+            };
+
+            Console.WriteLine(bmiszoveg);
+
             //switch máshogy
             int pontszam = 83;
 
@@ -85,6 +112,8 @@
                 >= 45 =>"2 - elégséges",
                 _ =>"1 - elégtelen"
             };
+
+
 
             Console.WriteLine(erdemjegy);
 
