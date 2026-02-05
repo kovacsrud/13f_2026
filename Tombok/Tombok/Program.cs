@@ -137,6 +137,13 @@
 
             Console.WriteLine($"50-nél nagyobb, 80-nál kisebb:{darabSzam}");
 
+
+            //Foreach ciklusban nem módosíthatóak a tömb elemei!
+            foreach (var i in szamok2)
+            {
+                Console.WriteLine(i);
+            }
+
         }
     }
 }
