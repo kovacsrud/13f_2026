@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nevlista", "Nevlista\Nevlis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevekV2", "NevekV2\NevekV2.csproj", "{D46A395B-42B4-4AC5-AB45-82AB7C5D11D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaSzamokkal", "ListaSzamokkal\ListaSzamokkal.csproj", "{93EB158E-1D43-4B70-A190-91C370DA81D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D46A395B-42B4-4AC5-AB45-82AB7C5D11D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D46A395B-42B4-4AC5-AB45-82AB7C5D11D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D46A395B-42B4-4AC5-AB45-82AB7C5D11D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EB158E-1D43-4B70-A190-91C370DA81D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EB158E-1D43-4B70-A190-91C370DA81D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EB158E-1D43-4B70-A190-91C370DA81D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EB158E-1D43-4B70-A190-91C370DA81D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
