@@ -49,6 +49,14 @@
             {
                 Console.WriteLine($"{i.Key} - {i.Average(x=>x.Eletkor())}");
             }
+
+            //Legfiatalabb BMW
+            //Daciák átlagéletkora
+            //Legöregebb Tesla
+            //2003 év 2008 között gyártott autók listája
+            //2010 után gyártott Kiák darabszáma
+
+            //Statisztika - az egyes években gyártott autók darabszáma
         }
     }
 }
