@@ -58,6 +58,8 @@
             Array.Sort(tippek);
             TombLista(tippek);
 
+
+
             //"Sorsolás"
             for (int i = 0; i < hanySzam; i++)
             {
@@ -105,7 +107,7 @@
             while (valasz=='i');
 
 
-
+            //Futtassa addig a játékot, amíg a tippel el nem ér egy adott számú pl. 3,4 vagy 5 találatot! Határozza meg, hogy ez hány évet vett igénybe.
 
         }
 
