@@ -90,7 +90,26 @@
                 Console.WriteLine("Nincs ilyen tanuló a listában");
             }
 
+            //Adja meg, hogy az egyes osztályoknak mennyi a létszáma!
+            //Összesítés feladat
 
+            var stat = tanulok.ToLookup(x=>x.Osztaly).OrderBy(x=>x.Key);
+
+            foreach (var i in stat)
+            {
+                Console.WriteLine($"{i.Key} - {i.Count()} fő - {i.Average(x=>x.Eletkor())} - {i.Min(x=>x.Eletkor())} - {i.Max(x=>x.Eletkor())}");
+            }
+
+            var stat2 = tanulok.ToLookup(x=>new {x.Osztaly,x.Vezeteknev }).OrderBy(x=>x.Key.Vezeteknev).ThenByDescending(x=>x.Key.Osztaly);
+
+            foreach (var i in stat2) {
+                Console.WriteLine($"{i.Key.Vezeteknev} - {i.Key.Osztaly} - {i.Count()}");
+            }
+
+            //Adja meg, hogy az egyes vezetéknevek hányszor szerepelnek a listában!
+
+
+            //Adja meg, hogy az egyes keresztnevek hányszor szerepelnek az egyes osztályokban
 
         }
     }
