@@ -18,11 +18,11 @@ namespace Osztalyok
         //Automatikusan lefut, amikor példányosítjuk az osztályt
         //Overloading ugyanúgy mint a függvényeknél
 
-        public Szemely(string vezeteknev,string keresztnev,int szuletesiev)
+        public Szemely(string vezeteknev,string knev,int szulev)
         {
             this.vezeteknev = vezeteknev;
-            this.keresztnev= keresztnev;
-            this.szuletesiev = szuletesiev;
+            keresztnev= knev;
+            szuletesiev = szulev;
         }
 
         public void SetNev(string vezeteknev,string keresztnev)
