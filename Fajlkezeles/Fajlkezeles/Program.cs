@@ -11,23 +11,24 @@ namespace Fajlkezeles
             List<Pilota2> pilotak=new List<Pilota2>();
 
             //beolvasás while ciklussal,streamreader használatával
-            //try
-            //{
-            //    FileStream fajl = new FileStream("pilotak.csv", FileMode.Open);
-            //    StreamReader sr = new StreamReader(fajl,Encoding.Default);
-            //    //Első sor átlépése
-            //    //sr.ReadLine();
-            //    while (!sr.EndOfStream) {
-            //        //Feldolgozás
-            //        //Console.WriteLine(sr.ReadLine());
-            //    }
+            try
+            {
+                FileStream fajl = new FileStream("pilotak.csv", FileMode.Open);
+                StreamReader sr = new StreamReader(fajl, Encoding.Default);
+                //Első sor átlépése
+                //sr.ReadLine();
+                while (!sr.EndOfStream)
+                {
+                    //Feldolgozás
+                    Console.WriteLine(sr.ReadLine());
+                }
 
-            //    sr.Close();
-            //}
-            //catch (Exception ex)
-            //{
-            //    Console.WriteLine(ex.Message);                
-            //}
+                sr.Close();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
 
             try
             {
