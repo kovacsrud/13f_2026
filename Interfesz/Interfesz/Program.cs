@@ -46,6 +46,30 @@
 
             Console.WriteLine($"Körök kerülete:{korokKerulete:0.00},körök területe:{korokTerulete:0.00}");
 
+            //Haromszog: (a*m)/2
+
+            sikidomok.Add(new Haromszog(10, 12, 13, 8));
+            sikidomok.Add(new Haromszog(12, 14, 16, 10));
+
+            foreach (var i in sikidomok)
+            {
+                if (i.GetType() == typeof(Kor))
+                {
+                    Kor kor= (Kor)i;
+                    Console.WriteLine($"Sugár:{kor.Sugar}");
+                }
+                if (i.GetType()==typeof(Teglalap))
+                {
+                    Teglalap t = (Teglalap)i;
+                    Console.WriteLine($"Téglalap oldalai:{t.Aoldal},{t.Boldal}");
+                }
+                if (i.GetType() == typeof(Haromszog))
+                {
+                    Haromszog h = (Haromszog)i;
+                    Console.WriteLine($"Háromszög odalai:{h.Aoldal},{h.Boldal},{h.Coldal}");
+                }
+            }
+
 
         }
     }
