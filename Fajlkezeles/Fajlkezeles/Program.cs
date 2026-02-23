@@ -20,7 +20,8 @@ namespace Fajlkezeles
                 while (!sr.EndOfStream)
                 {
                     //Feldolgozás
-                    Console.WriteLine(sr.ReadLine());
+                    //Console.WriteLine(sr.ReadLine());
+                    pilotak.Add(new Pilota2(sr.ReadLine(), ';'));
                 }
 
                 sr.Close();
