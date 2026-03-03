@@ -7,6 +7,8 @@
             Console.WriteLine("Hajók");
             List<Hajo> hajok= new List<Hajo>();
 
+            
+
             hajok.Add(new Vitorlas {
                 GyartasEve=1990,
                 Hossz=10,
