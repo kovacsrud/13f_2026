@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "Open
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{A250BF03-6195-477E-AC17-DFB594B3AA79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{833B2E76-97A1-43BF-BE83-A627384B31F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{974E2D8D-29BD-4D31-8CC1-1EEC8580F27A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A250BF03-6195-477E-AC17-DFB594B3AA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A250BF03-6195-477E-AC17-DFB594B3AA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A250BF03-6195-477E-AC17-DFB594B3AA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833B2E76-97A1-43BF-BE83-A627384B31F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833B2E76-97A1-43BF-BE83-A627384B31F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833B2E76-97A1-43BF-BE83-A627384B31F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833B2E76-97A1-43BF-BE83-A627384B31F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974E2D8D-29BD-4D31-8CC1-1EEC8580F27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974E2D8D-29BD-4D31-8CC1-1EEC8580F27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974E2D8D-29BD-4D31-8CC1-1EEC8580F27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974E2D8D-29BD-4D31-8CC1-1EEC8580F27A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
