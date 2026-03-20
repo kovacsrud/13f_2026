@@ -47,7 +47,6 @@ namespace Kutyak
                 kutyak.Add(new Kutya(adatok[i], hatarolo));
             }
 
-
             return kutyak;
         }
     }
