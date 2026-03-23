@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDinamikus", "WpfDinamikus\WpfDinamikus.csproj", "{A22A8804-0F62-4BEC-A248-B7DB51102B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22A8804-0F62-4BEC-A248-B7DB51102B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22A8804-0F62-4BEC-A248-B7DB51102B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22A8804-0F62-4BEC-A248-B7DB51102B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22A8804-0F62-4BEC-A248-B7DB51102B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50749F1-D943-4F6F-99CF-FB7E7A62DC12}
+	EndGlobalSection
+EndGlobal
