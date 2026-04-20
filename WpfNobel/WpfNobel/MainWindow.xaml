@@ -9,7 +9,8 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="8*"/>
-            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
         <DataGrid x:Name="datagridNobel" ColumnWidth="*"/>
 
@@ -17,7 +18,10 @@
             <Button x:Name="buttonBetoltes" Width="100" Height="30" Content="Betöltés" Click="buttonBetoltes_Click"/>
             <TextBox x:Name="textboxKeresztnev" Width="200" Height="30" FontSize="18" Margin="10,0,0,0"/>
             <Button x:Name="buttonKereses" Width="100" Height="30" Content="Keresés" Margin="10,0,0,0" Click="buttonKereses_Click"/>
+            <Button x:Name="buttonVissza" Width="100" Height="30" Content="Vissza" Margin="10,0,0,0" Click="buttonVissza_Click"/>
+            <ComboBox x:Name="comboTipus" Width="100" Margin="10,0,0,0" SelectionChanged="comboTipus_SelectionChanged"/>
         </WrapPanel>
+        <Button x:Name="buttonMentes" Width="100" Height="30" Content="Mentés fájlba" Grid.Row="2" Click="buttonMentes_Click"/>
 
     </Grid>
 </Window>
