@@ -13,14 +13,19 @@
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="5*"/>
-            <RowDefinition Height="5*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
         <ListBox x:Name="listboxEvek" FontSize="16" SelectionChanged="listboxEvek_SelectionChanged"/>
         <ListBox x:Name="listboxHonapok" FontSize="16" Grid.Column="1" SelectionChanged="listboxHonapok_SelectionChanged"/>
         <ListBox x:Name="listboxNapok" FontSize="16" Grid.Column="2" SelectionChanged="listboxNapok_SelectionChanged"/>
         
         <DataGrid x:Name="datagridIdojaras" ColumnWidth="*" Grid.Row="1" Grid.ColumnSpan="3"/>
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" >
+            <TextBlock Text="Átlagos hőmérséklet" FontSize="16"/>
+            <TextBlock x:Name="textblockAtlagHo" FontSize="16" />
+        </StackPanel>
 
     </Grid>
 </Window>
