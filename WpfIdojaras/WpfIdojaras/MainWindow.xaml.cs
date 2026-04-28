@@ -16,9 +16,68 @@ namespace WpfIdojaras
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<Idojaras> IdoJarasLista=new List<Idojaras>();
         public MainWindow()
         {
             InitializeComponent();
+
+            try
+            {
+                IdoJarasLista = LoadFromFile.LoadIdojaras("idojaras.csv", ';');
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);                
+            }
+
+            var evek = IdoJarasLista.OrderBy(x => x.Ev).Select(x => x.Ev).Distinct().ToList();
+            listboxEvek.ItemsSource = evek;
+
+        }
+
+        private void listboxEvek_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var kivalasztottEv = (int)listboxEvek.SelectedItem;
+            var kivalasztottEvAdatai=IdoJarasLista.FindAll(x=>x.Ev==kivalasztottEv);
+            if (kivalasztottEvAdatai.Count < 1)
+            {
+                MessageBox.Show("Ehhez az évhez nem tartoznak adatok!");
+            } else
+            {
+                datagridIdojaras.ItemsSource = kivalasztottEvAdatai;
+                listboxHonapok.ItemsSource=kivalasztottEvAdatai.OrderBy(x=>x.Honap).Select(x=>x.Honap).Distinct().ToList();
+            }
+        }
+
+        private void listboxHonapok_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var kivalasztottEv = (int)listboxEvek.SelectedItem;
+            var kivalasztottHonap = (int)listboxHonapok.SelectedItem;
+            var kivalasztottEvHonapAdatai = IdoJarasLista.FindAll(x=>x.Ev==kivalasztottEv && x.Honap==kivalasztottHonap);
+            if (kivalasztottEvHonapAdatai.Count<1)
+            {
+                MessageBox.Show("A kiválasztott hónaphoz nem tartoznak adatok!");
+            } else
+            {
+                datagridIdojaras.ItemsSource = kivalasztottEvHonapAdatai;
+                listboxNapok.ItemsSource=kivalasztottEvHonapAdatai.OrderBy(x=>x.Nap).Select(x=>x.Nap).Distinct().ToList();
+            }
+        }
+
+        private void listboxNapok_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var kivalasztottEv = (int)listboxEvek.SelectedItem;
+            var kivalasztottHonap = (int)listboxHonapok.SelectedItem;
+            var kivalasztottNap = (int)listboxNapok.SelectedItem;
+            var kivalasztottEvHonapNapAdatai=IdoJarasLista.FindAll(x=>x.Ev==kivalasztottEv && x.Honap==kivalasztottHonap && x.Nap==kivalasztottNap);
+            if (kivalasztottEvHonapNapAdatai.Count<1)
+            {
+                MessageBox.Show("A kiválasztott aphoz nem tartoznak adatok!");
+            } else
+            {
+                datagridIdojaras.ItemsSource = kivalasztottEvHonapNapAdatai;
+            }
+
         }
     }
 }
