@@ -45,9 +45,39 @@ namespace WpfIdojaras
             } else
             {
                 datagridIdojaras.ItemsSource = kivalasztottEvAdatai;
-                listboxHonapok.ItemsSource=kivalasztottEvAdatai.OrderBy(x=>x.Honap).Select(x=>x.Honap).Distinct().ToList();
+                listboxHonapok.ItemsSource = kivalasztottEvAdatai.OrderBy(x => x.Honap).Select(x => x.Honap).Distinct().ToList();
+                HoStat(kivalasztottEvAdatai);
+                SzelStat(kivalasztottEvAdatai);
+                ParaStat(kivalasztottEvAdatai);
             }
         }
+
+        private void HoStat(List<Idojaras> adatok)
+        {
+            var atlag = adatok.Average(x => x.Homerseklet);
+            var max = adatok.Max(x => x.Homerseklet);
+            var min = adatok.Min(x => x.Homerseklet);
+            textblockAtlagHo.Text = atlag.ToString();
+            textblockMinHo.Text = min.ToString();
+            textblockMaxHo.Text = max.ToString();   
+        }
+
+        private void SzelStat(List<Idojaras> adatok)
+        {
+            var atlag = adatok.Average(x => x.Szelsebesseg);
+            var max = adatok.Max(x => x.Szelsebesseg);
+            var min = adatok.Min(x => x.Szelsebesseg);
+            textblockAtlagSzel.Text = atlag.ToString();
+        }
+
+        private void ParaStat(List<Idojaras> adatok)
+        {
+            var atlag = adatok.Average(x => x.Paratartalom);
+            var max = adatok.Max(x => x.Paratartalom);
+            var min = adatok.Min(x => x.Paratartalom);
+            textblockAtlagPara.Text = atlag.ToString();
+        }
+
 
         private void listboxHonapok_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
@@ -61,6 +91,10 @@ namespace WpfIdojaras
             {
                 datagridIdojaras.ItemsSource = kivalasztottEvHonapAdatai;
                 listboxNapok.ItemsSource=kivalasztottEvHonapAdatai.OrderBy(x=>x.Nap).Select(x=>x.Nap).Distinct().ToList();
+
+                HoStat(kivalasztottEvHonapAdatai);
+                SzelStat(kivalasztottEvHonapAdatai);
+                ParaStat(kivalasztottEvHonapAdatai);
             }
         }
 
@@ -76,6 +110,7 @@ namespace WpfIdojaras
             } else
             {
                 datagridIdojaras.ItemsSource = kivalasztottEvHonapNapAdatai;
+                HoStat(kivalasztottEvHonapNapAdatai);
             }
 
         }

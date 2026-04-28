@@ -22,9 +22,23 @@
         <ListBox x:Name="listboxNapok" FontSize="16" Grid.Column="2" SelectionChanged="listboxNapok_SelectionChanged"/>
         
         <DataGrid x:Name="datagridIdojaras" ColumnWidth="*" Grid.Row="1" Grid.ColumnSpan="3"/>
-        <StackPanel Grid.Row="2" HorizontalAlignment="Center" >
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBlock Text="Átlagos hőmérséklet" FontSize="16"/>
             <TextBlock x:Name="textblockAtlagHo" FontSize="16" />
+            <TextBlock Text="Maximum hőmérséklet" FontSize="16"/>
+            <TextBlock x:Name="textblockMaxHo" FontSize="16" />
+            <TextBlock Text="Minimum hőmérséklet" FontSize="16"/>
+            <TextBlock x:Name="textblockMinHo" FontSize="16" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Átlagos szélsebesség" FontSize="16"/>
+            <TextBlock x:Name="textblockAtlagSzel" FontSize="16" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Átlagos páratartalom" FontSize="16"/>
+            <TextBlock x:Name="textblockAtlagPara" FontSize="16" />
         </StackPanel>
 
     </Grid>
