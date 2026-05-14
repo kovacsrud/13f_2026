@@ -106,7 +106,7 @@
 105;WKB;Warracknabeal Airport;AU;397;OC
 106;BNQ;Baganga airport;PH;42;AS
 107;EDI;Edinburgh Airport;GB;135;EU
-108;BMB;Bumbar Airport;CD;;AF
+108;BMB;Bumbar Airport;CD;523;AF
 109;BBK;Kasane Airport;BW;3289;AF
 110;VIX;Eurico de Aguiar Salles Airport;BR;11;SA
 111;DIA;Doha International Airport;QA;35;AS
@@ -166,7 +166,7 @@
 165;OLN;Colonia Sarmiento Airport;AR;877;SA
 166;GHC;Great Harbour Cay Airport;BS;18;NA
 167;SLU;George F. L. Charles Airport;LC;22;NA
-168;BCS;Southern Seaplane Airport;US;;NA
+168;BCS;Southern Seaplane Airport;US;345;NA
 169;RTN;Raton Municipal-Crews Field;US;6352;NA
 170;ESU;Mogador Airport;MA;384;AF
 171;PSE;Mercedita Airport;PR;29;NA
@@ -174,7 +174,7 @@
 173;KXE;P C Pelser Airport;ZA;4444;AF
 174;HOO;Nhon Co Airfield;VN;2270;AS
 175;ECP;Northwest Florida Beaches International Airport;US;69;NA
-176;MPT;Maliana Airport;TL;;AS
+176;MPT;Maliana Airport;TL;678;AS
 177;ERC;Erzincan Airport;TR;3783;AS
 178;KHK;Khark Island Airport;IR;17;AS
 179;KEI;Kepi Airport;ID;67;AS
@@ -192,7 +192,7 @@
 191;GXG;Negage Airport;AO;4105;AF
 192;BBI;Biju Patnaik Airport;IN;138;AS
 193;FDF;Martinique Aimé Césaire International Airport;MQ;16;NA
-194;WLA;Wallal Airport;AU;;OC
+194;WLA;Wallal Airport;AU;788;OC
 195;TZC;Tuscola Area Airport;US;701;NA
 196;PNY;Pondicherry Airport;IN;134;AS
 197;PBX;Fazenda Piraguassu Airport;BR;705;SA
@@ -251,7 +251,7 @@
 250;SAW;Sabiha Gökçen International Airport;TR;312;AS
 251;ELE;EL Real Airport;PA;65;NA
 252;IRI;Iringa Airport;TZ;4678;AF
-253;TKY;Turkey Creek Airport;AU;;OC
+253;TKY;Turkey Creek Airport;AU;511;OC
 254;KHD;Khoram Abad Airport;IR;3782;AS
 255;KSK;Karlskoga Airport;SE;400;EU
 256;URZ;Orūzgān Airport;AF;6725;AS
@@ -283,10 +283,10 @@
 282;BPC;Bamenda Airport;CM;4065;AF
 283;PYM;Plymouth Municipal Airport;US;148;NA
 284;GOG;Gobabis Airport;NA;4731;AF
-285;RDA;Rockhampton Downs Airport;AU;;OC
+285;RDA;Rockhampton Downs Airport;AU;234;OC
 286;JOK;Yoshkar-Ola Airport;RU;348;EU
 287;WTE;Wotje Atoll Airport;MH;4;OC
-288;CDY;Cagayan de Sulu Airport;PH;;AS
+288;CDY;Cagayan de Sulu Airport;PH;1122;AS
 289;DLU;Dali Airport;CN;7050;AS
 290;SXB;Strasbourg Airport;FR;505;EU
 291;EBL;Erbil International Airport;IQ;1341;AS
@@ -322,7 +322,7 @@
 321;TSN;Tianjin Binhai International Airport;CN;10;AS
 322;MGN;Baracoa Airport;CO;178;SA
 323;XBX;Bernay – St Martin Airport;FR;554;EU
-324;AIM;Ailuk Airport;MH;;OC
+324;AIM;Ailuk Airport;MH;31;OC
 325;KTA;Karratha Airport;AU;29;OC
 326;CMV;Coromandel Aerodrome;NZ;10;OC
 327;LIN;Milano Linate Airport;IT;353;EU
@@ -339,7 +339,7 @@
 338;UKH;Mukhaizna Airport;OM;473;AS
 339;VPE;Ngjiva Pereira Airport;AO;3566;AF
 340;CRB;Collarenebri Airport;AU;152;OC
-341;PSV;Papa Stour Airport;GB;;EU
+341;PSV;Papa Stour Airport;GB;78;EU
 342;MGC;Michigan City Municipal Airport;US;655;NA
 343;HGS;Hastings Airport;SL;60;AF
 344;KNS;King Island Airport;AU;132;OC
@@ -360,7 +360,7 @@
 359;AQY;Girdwood Airport;US;150;NA
 360;DEE;Mendeleyevo Airport;RU;584;AS
 361;CBJ;Cabo Rojo Airport;DO;262;NA
-362;MNF;Mana Island Airport;FJ;;OC
+362;MNF;Mana Island Airport;FJ;67;OC
 363;SHA;Shanghai Hongqiao International Airport;CN;10;AS
 364;DJM;Djambala Airport;CG;2595;AF
 365;BNY;Bellona/Anua Airport;SB;60;OC
@@ -384,7 +384,7 @@
 383;YNH;Hudsons Hope Airport;CA;2220;NA
 384;MVI;Manetai Airport;PG;170;OC
 385;NEF;Neftekamsk Airport;RU;456;EU
-386;LDC;Lindeman Island Airport;AU;;OC
+386;LDC;Lindeman Island Airport;AU;89;OC
 387;ANA;Angama Airport;KE;6180;AF
 388;TUH;Arnold Air Force Base;US;1067;NA
 389;ASK;Yamoussoukro Airport;CI;699;AF
@@ -409,7 +409,7 @@
 408;BNM;Bodinumu Airport;PG;3700;OC
 409;YEL;Elliot Lake Municipal Airport;CA;1087;NA
 410;MAG;Madang Airport;PG;20;OC
-411;ZTR;Zhytomyr Airport;UA;;EU
+411;ZTR;Zhytomyr Airport;UA;34;EU
 412;RHN;Skorpion Mine Airport;NA;1870;AF
 413;QPH;Palapye Airport;BW;3000;AF
 414;YDC;Drayton Valley Industrial Airport;CA;2776;NA
@@ -439,7 +439,7 @@
 438;FRL;Forlì Airport;IT;97;EU
 439;DUQ;Duncan Airport;CA;300;NA
 440;HRM;Hassi R'Mel Airport;DZ;2540;AF
-441;SSK;Sturt Creek Airport;AU;;OC
+441;SSK;Sturt Creek Airport;AU;211;OC
 442;BJC;Rocky Mountain Metropolitan Airport;US;5673;NA
 443;BKI;Kota Kinabalu International Airport;MY;10;AS
 444;UST;Northeast Florida Regional Airport;US;10;NA
@@ -457,7 +457,7 @@
 456;HWA;Hawabango Airport;PG;4563;OC
 457;BAY;Maramureș International Airport;RO;605;EU
 458;WGT;Wangaratta Airport;AU;504;OC
-459;CTR;Cattle Creek Airport;AU;;OC
+459;CTR;Cattle Creek Airport;AU;21;OC
 460;CCA;Chimore Airport;BO;875;SA
 461;SKI;Skikda Airport;DZ;27;AF
 462;NSI;Yaoundé Nsimalen International Airport;CM;2278;AF
@@ -485,8 +485,8 @@
 484;VGD;Vologda Airport;RU;387;EU
 485;SXY;Sidney Municipal Airport;US;1027;NA
 486;CMH;John Glenn Columbus International Airport;US;815;NA
-487;WLC;Walcha Airport;AU;;OC
-488;LHK;Guangzhou MR Air Base;CN;;AS
+487;WLC;Walcha Airport;AU;56;OC
+488;LHK;Guangzhou MR Air Base;CN;130;AS
 489;FMN;Four Corners Regional Airport;US;5506;NA
 490;GBF;Negarbo(Negabo) Airport;PG;4500;OC
 491;AMF;Ama Airport;PG;145;OC
@@ -547,7 +547,7 @@
 546;ADG;Lenawee County Airport;US;798;NA
 547;GOJ;Nizhny Novgorod Strigino International Airport;RU;256;EU
 548;ZVK;Savannakhet Airport;LA;509;AS
-549;XFN;Xiangyang Liuji Airport;CN;;AS
+549;XFN;Xiangyang Liuji Airport;CN;56;AS
 550;KUP;Kupiano Airport;PG;90;OC
 551;AEA;Abemama Atoll Airport;KI;8;OC
 552;SNK;Winston Field;US;2430;NA
@@ -589,7 +589,7 @@
 588;CYX;Cherskiy Airport;RU;20;AS
 589;JAI;Jaipur International Airport;IN;1263;AS
 590;HVS;Hartsville Regional Airport;US;364;NA
-591;CIF;Chifeng Airport;CN;;AS
+591;CIF;Chifeng Airport;CN;90;AS
 592;PGX;Périgueux-Bassillac Airport;FR;328;EU
 593;LAN;Capital City Airport;US;861;NA
 594;UHE;Kunovice Airport;CZ;581;EU
@@ -605,7 +605,7 @@
 604;TWZ;Pukaki Airport;NZ;1575;OC
 605;YVD;Yeva Airport;PG;4510;OC
 606;XGA;Gaoua Airport;BF;1099;AF
-607;BQG;Bogorodskoye Airport;RU;;EU
+607;BQG;Bogorodskoye Airport;RU;149;EU
 608;WMB;Warrnambool Airport;AU;242;OC
 609;PST;Preston Airport;CU;13;NA
 610;FBK;Ladd AAF Airfield;US;454;NA
@@ -644,7 +644,7 @@
 643;ZAR;Zaria Airport;NG;2170;AF
 644;NAS;Lynden Pindling International Airport;BS;16;NA
 645;POO;Poços de Caldas - Embaixador Walther Moreira Salles Airport;BR;4135;SA
-646;LIK;Likiep Airport;MH;;OC
+646;LIK;Likiep Airport;MH;320;OC
 647;JUT;Jutigalpa airport;HN;1314;NA
 648;AHI;Amahai Airport;ID;29;AS
 649;CJC;El Loa Airport;CL;7543;SA
@@ -728,10 +728,10 @@
 727;FBL;Faribault Municipal Airport-Liz Wall Strohfus Field;US;1060;NA
 728;IMD;Imonda Airport;PG;990;OC
 729;GSW;Greater Southwest International Airport-Amon Carter Field;US;568;NA
-730;XMY;Yam Island Airport;AU;;OC
+730;XMY;Yam Island Airport;AU;891;OC
 731;GSQ;Shark El Oweinat International Airport;EG;859;AF
 732;OKK;Kokomo Municipal Airport;US;830;NA
-733;ALZ;Alitak Seaplane Base;US;;NA
+733;ALZ;Alitak Seaplane Base;US;456;NA
 734;RED;Mifflin County Airport;US;819;NA
 735;REW;Rewa Airport, Chorhata, REWA;IN;1000;AS
 736;QHV;Novo Hamburgo Airport;BR;66;SA
@@ -759,7 +759,7 @@
 758;ZIG;Ziguinchor Airport;SN;75;AF
 759;NAA;Narrabri Airport;AU;788;OC
 760;TRM;Jacqueline Cochran Regional Airport;US;-115;NA
-761;CZX;Changzhou Benniu Airport;CN;;AS
+761;CZX;Changzhou Benniu Airport;CN;333;AS
 762;YNH;Hudsons Hope Airport;CA;2220;NA
 763;VTE;Wattay International Airport;LA;564;AS
 764;IIS;Nissan Island Airport;PG;52;OC
@@ -817,13 +817,13 @@
 816;ISN;Sloulin Field International Airport;US;1982;NA
 817;YKX;Kirkland Lake Airport;CA;1157;NA
 818;ESD;Orcas Island Airport;US;31;NA
-819;UYN;Yulin Yuyang Airport;CN;;AS
+819;UYN;Yulin Yuyang Airport;CN;32;AS
 820;BOS;General Edward Lawrence Logan International Airport;US;20;NA
 821;YXX;Abbotsford Airport;CA;195;NA
 822;SDR;Santander Airport;ES;16;EU
 823;MJX;Ocean County Airport;US;82;NA
-824;BJT;Bentota River Waterdrome;LK;;AS
-825;YBJ;Baie-Johan-Beetz Water Aerodrome;CA;;NA
+824;BJT;Bentota River Waterdrome;LK;55;AS
+825;YBJ;Baie-Johan-Beetz Water Aerodrome;CA;88;NA
 826;VDE;Hierro Airport;ES;103;EU
 827;AHD;Ardmore Downtown Executive Airport;US;844;NA
 828;BMZ;Bamu Airport;PG;50;OC
@@ -843,7 +843,7 @@
 842;LHS;Las Heras Airport;AR;1082;SA
 843;NST;Nakhon Si Thammarat Airport;TH;13;AS
 844;CBS;Oro Negro Airport;VE;164;SA
-845;LIA;Liangping Airport;CN;;AS
+845;LIA;Liangping Airport;CN;66;AS
 846;CIR;Cairo Regional Airport;US;321;NA
 847;OUR;Batouri Airport;CM;2152;AF
 848;PYB;Jeypore Airport;IN;1952;AS
@@ -861,7 +861,7 @@
 860;UBJ;Yamaguchi Ube Airport;JP;23;AS
 861;IRO;Birao Airport;CF;1696;AF
 862;HIE;Mount Washington Regional Airport;US;1074;NA
-863;HZG;Hanzhong Chenggu Airport;CN;;AS
+863;HZG;Hanzhong Chenggu Airport;CN;178;AS
 864;PBQ;Pimenta Bueno Airport;BR;682;SA
 865;OCN;Oceanside Municipal Airport;US;28;NA
 866;TAD;Perry Stokes Airport;US;5762;NA
@@ -879,12 +879,12 @@
 878;HUS;Hughes Airport;US;299;NA
 879;STD;Mayor Buenaventura Vivas International Airport;VE;1083;SA
 880;ECV;Cuatro Vientos Airport;ES;2269;EU
-881;PEA;Penneshaw Airport;AU;;OC
+881;PEA;Penneshaw Airport;AU;532;OC
 882;MJJ;Moki Airport;PG;3030;OC
 883;RVY;Presidente General Don Oscar D. Gestido International Airport;UY;712;SA
 884;RKH;Rock Hill - York County Airport;US;666;NA
 885;CHU;Chuathbaluk Airport;US;244;NA
-886;VAO;Suavanao Airport;SB;;OC
+886;VAO;Suavanao Airport;SB;788;OC
 887;UGA;Bulgan Airport;MN;4311;AS
 888;HGH;Hangzhou Xiaoshan International Airport;CN;23;AS
 889;QGF;Montenegro Airport;BR;125;SA
@@ -967,7 +967,7 @@
 966;HOR;Horta Airport;PT;118;EU
 967;MJY;Mangunjaya Airport;ID;76;AS
 968;JDZ;Jingdezhen Airport;CN;112;AS
-969;XFN;Xiangyang Liuji Airport;CN;;AS
+969;XFN;Xiangyang Liuji Airport;CN;76;AS
 970;MVO;Mongo Airport;TD;1414;AF
 971;STN;London Stansted Airport;GB;348;EU
 972;HVA;Analalava Airport;MG;345;AF

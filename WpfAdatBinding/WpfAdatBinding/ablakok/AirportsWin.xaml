@@ -7,6 +7,16 @@
         mc:Ignorable="d"
         Title="AirportsWin" Height="450" Width="800">
     <Grid>
-        
+        <DataGrid ItemsSource="{Binding Airports}" AutoGenerateColumns="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Reptér kód" Binding="{Binding AirportCode}" />
+                <DataGridTextColumn Header="Reptér neve" Binding="{Binding AirportName}" />
+                <DataGridTextColumn Header="Reptér országkód" Binding="{Binding AirportCountryCode}" />
+                <DataGridTextColumn Header="Reptér magassága" Binding="{Binding AirportElevation}" />
+                <DataGridTextColumn Header="Kontinens" Binding="{Binding AirportContinent}" />
+                
+            </DataGrid.Columns>
+        </DataGrid>
+
     </Grid>
 </Window>

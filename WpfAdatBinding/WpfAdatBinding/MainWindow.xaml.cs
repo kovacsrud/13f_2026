@@ -8,6 +8,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfAdatBinding.ablakok;
+using WpfAdatBinding.model;
 
 namespace WpfAdatBinding
 {
@@ -19,6 +21,7 @@ namespace WpfAdatBinding
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new DataSource();
         }
 
         private void menuitemDronok_Click(object sender, RoutedEventArgs e)
@@ -28,7 +31,9 @@ namespace WpfAdatBinding
 
         private void menuitemRepterek_Click(object sender, RoutedEventArgs e)
         {
-
+            var dc=DataContext as DataSource;
+            AirportsWin airports = new AirportsWin { DataContext=dc };
+            airports.ShowDialog();
         }
 
         private void menuitemMobilok_Click(object sender, RoutedEventArgs e)
@@ -38,7 +43,7 @@ namespace WpfAdatBinding
 
         private void menuitemKilepes_Click(object sender, RoutedEventArgs e)
         {
-
+            Environment.Exit(0);
         }
     }
 }
