@@ -15,7 +15,7 @@
             <MenuItem Header="Fájl">
                 <MenuItem Header="Megnyitás"/>
                 <MenuItem Header="Mentés"/>
-                <MenuItem Header="Kilépés"/>
+                <MenuItem x:Name="menuitemKilepes" Header="Kilépés" Click="menuitemKilepes_Click"/>
             </MenuItem>
             <MenuItem Header="Szerkesztés">
                 <MenuItem Header="Kivágás"/>
@@ -23,9 +23,9 @@
                 <MenuItem Header="Beillesztés"/>
             </MenuItem>
             <MenuItem Header="Adatok">
-                <MenuItem Header="Drónok"/>
-                <MenuItem Header="Repterek"/>
-                <MenuItem Header="Mobilok"/>
+                <MenuItem x:Name="menuitemDronok" Header="Drónok" Click="menuitemDronok_Click"/>
+                <MenuItem x:Name="menuitemRepterek" Header="Repterek" Click="menuitemRepterek_Click"/>
+                <MenuItem x:Name="menuitemMobilok" Header="Mobilok" Click="menuitemMobilok_Click"/>
             </MenuItem>
             <MenuItem Header="Súgó">
                 <MenuItem Header="Névjegy"/>

@@ -20,5 +20,25 @@ namespace WpfAdatBinding
         {
             InitializeComponent();
         }
+
+        private void menuitemDronok_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void menuitemRepterek_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void menuitemMobilok_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void menuitemKilepes_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

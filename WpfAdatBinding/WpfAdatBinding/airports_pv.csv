@@ -1,0 +1,1001 @@
+﻿id;airport_code;airport_name;aiport_country_code;airport_elevation;airport_continent
+1;TUG;Tuguegarao Airport;PH;70;AS
+2;HSZ;Hsinchu Air Base;TW;26;AS
+3;IOM;Isle of Man Airport;IM;52;EU
+4;VLV;Dr. Antonio Nicolás Briceño Airport;VE;2060;SA
+5;BWO;Balakovo Airport;RU;95;EU
+6;NGS;Nagasaki Airport;JP;15;AS
+7;MUY;Mouyondzi Airport;CG;1670;AF
+8;TKC;Tiko Airport;CM;151;AF
+9;OEA;O'Neal Airport;US;414;NA
+10;SEX;Sembach Air Base;DE;1050;EU
+11;YFH;Fort Hope Airport;CA;899;NA
+12;GYS;Guangyuan Airport;CN;;AS
+13;FRY;Eastern Slopes Regional Airport;US;454;NA
+14;AJR;Arvidsjaur Airport;SE;1245;EU
+15;HGU;Mount Hagen Kagamuga Airport;PG;5388;OC
+16;AWK;Wake Island Airfield;UM;14;OC
+17;KGO;Kirovograd Airport;UA;568;EU
+18;CHM;Teniente FAP Jaime A De Montreuil Morales Airport;PE;69;SA
+19;YRO;Ottawa / Rockcliffe Airport;CA;188;NA
+20;ANQ;Tri State Steuben County Airport;US;995;NA
+21;BIL;Billings Logan International Airport;US;3652;NA
+22;NAH;Naha Airport;ID;16;AS
+23;TLA;Teller Airport;US;294;NA
+24;BYV;Beira Lake Seaplane Base;LK;17;AS
+25;SNA;John Wayne Airport-Orange County Airport;US;56;NA
+26;RKP;Aransas County Airport;US;24;NA
+27;KVE;Kitava Airport;PG;194;OC
+28;BMR;Baltrum Airport;DE;7;EU
+29;KTX;Koutiala Airport;ML;1240;AF
+30;ACA;General Juan N Alvarez International Airport;MX;16;NA
+31;PSI;Pasni Airport;PK;33;AS
+32;BML;Berlin Regional Airport;US;1161;NA
+33;GMZ;La Gomera Airport;ES;716;EU
+34;TLS;Toulouse-Blagnac Airport;FR;499;EU
+35;BTY;Beatty Airport;US;3170;NA
+36;CMK;Club Makokola Airport;MW;1587;AF
+37;RKP;Aransas County Airport;US;24;NA
+38;OKL;Oksibil Airport;ID;4315;AS
+39;RMY;Mariposa Yosemite Airport;US;2254;NA
+40;ISL;Atatürk International Airport;TR;163;AS
+41;PNB;Porto Nacional Airport;BR;870;SA
+42;TDS;Sasereme Airport;PG;121;OC
+43;YTY;Yangzhou Taizhou Airport;CN;7;AS
+44;MGX;Moabi Airport;GA;787;AF
+45;IRB;Iraan Municipal Airport;US;2200;NA
+46;BEC;Beech Factory Airport;US;1408;NA
+47;MSA;Muskrat Dam Airport;CA;911;NA
+48;OAH;Shindand Airport;AF;3773;AS
+49;EMM;Kemmerer Municipal Airport;US;7285;NA
+50;BXD;Bade Airport;ID;59;AS
+51;HUK;Hukuntsi Airport;BW;3720;AF
+52;GIR;Santiago Vila Airport;CO;900;SA
+53;KHR;Kharkhorin Airport;MN;4759;AS
+54;DWC;Al Maktoum International Airport;AE;114;AS
+55;UBT;Ubatuba Airport;BR;13;SA
+56;MVF;Dix-Sept Rosado Airport;BR;76;SA
+57;DNP;Tulsipur Airport;NP;2100;AS
+58;CIY;Comiso Airport;IT;623;EU
+59;SBH;Gustaf III Airport;BL;49;NA
+60;WHF;Wadi Halfa Airport;SD;961;AF
+61;XSD;Tonopah Test Range Airport;US;5549;NA
+62;TTL;Turtle Island Seaplane Base;FJ;0;OC
+63;YES;Yasouj Airport;IR;5939;AS
+64;FOM;Foumban Nkounja Airport;CM;3963;AF
+65;NTD;Point Mugu Naval Air Station (Naval Base Ventura Co);US;13;NA
+66;LUP;Kalaupapa Airport;US;24;NA
+67;BCG;Bemichi Airport;GY;94;SA
+68;SXL;Sligo Airport;IE;11;EU
+69;GOZ;Gorna Oryahovitsa Airport;BG;285;EU
+70;VCL;Chu Lai International Airport;VN;10;AS
+71;LKL;Banak Airport;NO;25;EU
+72;CTZ;Sampson County Airport;US;148;NA
+73;DLH;Duluth International Airport;US;1428;NA
+74;QLR;Monte Real Air Base;PT;187;EU
+75;LGI;Deadman's Cay Airport;BS;9;NA
+76;MHK;Manhattan Regional Airport;US;1057;NA
+77;YQD;The Pas Airport;CA;887;NA
+78;PEC;Pelican Seaplane Base;US;0;NA
+79;ICS;Cascade Airport;US;4742;NA
+80;SQL;San Carlos Airport;US;5;NA
+81;BBD;Curtis Field;US;1827;NA
+82;ILA;Illaga Airport;ID;7989;AS
+83;MPK;Mokpo Airport;KR;23;AS
+84;GVR;Coronel Altino Machado de Oliveira Airport;BR;561;SA
+85;ESS;Essen Mulheim Airport;DE;424;EU
+86;KDW;Victoria Reservoir Seaplane Base;LK;1402;AS
+87;SJU;Luis Munoz Marin International Airport;PR;9;NA
+88;CRU;Lauriston Airport;GD;5;NA
+89;SVF;Savé Airport;BJ;597;AF
+90;TSH;Tshikapa Airport;CD;1595;AF
+91;DWC;Al Maktoum International Airport;AE;114;AS
+92;CXM;Camaxilo Airport;AO;3957;AF
+93;HBX;Hubli Airport;IN;2171;AS
+94;MBP;Moyobamba Airport;PE;2749;SA
+95;SIL;Sila Airport;PG;2230;OC
+96;MXW;Mandalgobi Airport;MN;4550;AS
+97;VTG;Vung Tau Airport;VN;13;AS
+98;PPW;Papa Westray Airport;GB;91;EU
+99;SIO;Smithton Airport;AU;31;OC
+100;LVO;Laverton Airport;AU;1530;OC
+101;MYB;Mayumba Airport;GA;13;AF
+102;PSA;Pisa International Airport;IT;6;EU
+103;YGE;Gorge Harbour Seaplane Base;CA;0;NA
+104;GBI;Auxiliary Airfield;BS;8;NA
+105;WKB;Warracknabeal Airport;AU;397;OC
+106;BNQ;Baganga airport;PH;42;AS
+107;EDI;Edinburgh Airport;GB;135;EU
+108;BMB;Bumbar Airport;CD;;AF
+109;BBK;Kasane Airport;BW;3289;AF
+110;VIX;Eurico de Aguiar Salles Airport;BR;11;SA
+111;DIA;Doha International Airport;QA;35;AS
+112;CBR;Canberra International Airport;AU;1886;OC
+113;FDH;Friedrichshafen Airport;DE;1367;EU
+114;DAK;Dakhla Airport;EG;613;AF
+115;DEP;Daporijo Airport;IN;750;AS
+116;TNS;Tungsten (Cantung) Airport;CA;3500;NA
+117;JIA;Juína Airport;BR;1083;SA
+118;UMU;Umuarama Airport;BR;1558;SA
+119;NJC;Nizhnevartovsk Airport;RU;177;AS
+120;KDP;Kandep Airport;PG;7710;OC
+121;EJH;Al Wajh Domestic Airport;SA;66;AS
+122;KEQ;Kebar Airport;ID;2050;AS
+123;TEL;Telupid Airport;MY;343;AS
+124;CKN;Crookston Municipal Kirkwood Field;US;899;NA
+125;BWL;Earl Henry Airport;US;1054;NA
+126;ADM;Ardmore Municipal Airport;US;777;NA
+127;SFJ;Kangerlussuaq Airport;GL;165;NA
+128;WLW;Willows Glenn County Airport;US;141;NA
+129;NDI;Namudi Airport;PG;1044;OC
+130;RNA;Ulawa Airport;SB;40;OC
+131;ADB;Adnan Menderes International Airport;TR;412;AS
+132;PBJ;Tavie Airport;VU;160;OC
+133;SGM;San Ignacio Airport;MX;800;NA
+134;SFN;Sauce Viejo Airport;AR;55;SA
+135;MSQ;Minsk National Airport;BY;670;EU
+136;IDI;Indiana County/Jimmy Stewart Fld/ Airport;US;1405;NA
+137;NQA;Millington-Memphis Airport;US;320;NA
+138;APU;Captain João Busse Airport;BR;2641;SA
+139;GRL;Garasa Airport;PG;2539;OC
+140;RVS;Richard Lloyd Jones Jr Airport;US;638;NA
+141;FRA;Frankfurt am Main Airport;DE;364;EU
+142;CYI;Chiayi Airport;TW;85;AS
+143;PNG;Paranaguá Airport;BR;16;SA
+144;YCG;Castlegar/West Kootenay Regional Airport;CA;1624;NA
+145;LAG;La Guaira Airport;VE;2569;SA
+146;DNU;Dinangat Airport;PG;5309;OC
+147;JJU;Qaqortoq Heliport;GL;53;NA
+148;HAJ;Hannover Airport;DE;183;EU
+149;0;São Joaquim Airport;BR;4462;SA
+150;GBM;Garbaharey Airport;SO;755;AF
+151;ALG;Houari Boumediene Airport;DZ;82;AF
+152;LRF;Little Rock Air Force Base;US;311;NA
+153;BEJ;Kalimarau Airport;ID;59;AS
+154;PKC;Yelizovo Airport;RU;131;AS
+155;TGI;Tingo Maria Airport;PE;2010;SA
+156;MMK;Murmansk Airport;RU;266;EU
+157;AHF;Arapahoe Municipal Airport;US;2270;NA
+158;LTK;Bassel Al-Assad International Airport;SY;157;AS
+159;WYA;Whyalla Airport;AU;41;OC
+160;LVD;Lime Village Airport;US;552;NA
+161;NZY;North Island Naval Air Station-Halsey Field;US;26;NA
+162;PTH;Port Heiden Airport;US;95;NA
+163;KBU;Gusti Syamsir Alam Airport;ID;4;AS
+164;LEF;Lebakeng Airport;LS;6000;AF
+165;OLN;Colonia Sarmiento Airport;AR;877;SA
+166;GHC;Great Harbour Cay Airport;BS;18;NA
+167;SLU;George F. L. Charles Airport;LC;22;NA
+168;BCS;Southern Seaplane Airport;US;;NA
+169;RTN;Raton Municipal-Crews Field;US;6352;NA
+170;ESU;Mogador Airport;MA;384;AF
+171;PSE;Mercedita Airport;PR;29;NA
+172;DUC;Halliburton Field;US;1114;NA
+173;KXE;P C Pelser Airport;ZA;4444;AF
+174;HOO;Nhon Co Airfield;VN;2270;AS
+175;ECP;Northwest Florida Beaches International Airport;US;69;NA
+176;MPT;Maliana Airport;TL;;AS
+177;ERC;Erzincan Airport;TR;3783;AS
+178;KHK;Khark Island Airport;IR;17;AS
+179;KEI;Kepi Airport;ID;67;AS
+180;ELW;Ellamar Seaplane Base;US;0;NA
+181;PYV;Yaviza Airport;PA;75;NA
+182;JNJ;Ja'Aluni Airport;OM;560;AS
+183;MNB;Muanda Airport;CD;89;AF
+184;EGI;Duke Field;US;191;NA
+185;RIG;Rio Grande Airport;BR;27;SA
+186;CMA;Cunnamulla Airport;AU;630;OC
+187;LTN;London Luton Airport;GB;526;EU
+188;INO;Inongo Airport;CD;1040;AF
+189;ARM;Armidale Airport;AU;3556;OC
+190;SJF;Cruz Bay Seaplane Base;VI;0;NA
+191;GXG;Negage Airport;AO;4105;AF
+192;BBI;Biju Patnaik Airport;IN;138;AS
+193;FDF;Martinique Aimé Césaire International Airport;MQ;16;NA
+194;WLA;Wallal Airport;AU;;OC
+195;TZC;Tuscola Area Airport;US;701;NA
+196;PNY;Pondicherry Airport;IN;134;AS
+197;PBX;Fazenda Piraguassu Airport;BR;705;SA
+198;IDH;Idaho County Airport;US;3314;NA
+199;TOA;Zamperini Field;US;103;NA
+200;SHB;Nakashibetsu Airport;JP;234;AS
+201;RMY;Mariposa Yosemite Airport;US;2254;NA
+202;DZA;Dzaoudzi Pamandzi International Airport;YT;23;AF
+203;YPY;Fort Chipewyan Airport;CA;761;NA
+204;BZV;Maya-Maya Airport;CG;1048;AF
+205;LXU;Lukulu Airport;ZM;3480;AF
+206;MKU;Makokou Airport;GA;1726;AF
+207;EAL;Elenak Airport;MH;16;OC
+208;0;Morro do Chapéu Airport;BR;3609;SA
+209;OGL;Eugene F. Correira International Airport;GY;10;SA
+210;KMC;King Khaled Military City Airport;SA;1352;AS
+211;IKK;Greater Kankakee Airport;US;630;NA
+212;ARN;Stockholm-Arlanda Airport;SE;137;EU
+213;SHH;Shishmaref Airport;US;12;NA
+214;YBF;Bamfield Seaplane Base;CA;0;NA
+215;JKV;Cherokee County Airport;US;677;NA
+216;VAT;Vatomandry Airport;MG;39;AF
+217;AJU;Santa Maria Airport;BR;23;SA
+218;QLD;Blida Airport;DZ;535;AF
+219;MIV;Millville Municipal Airport;US;85;NA
+220;SOI;South Molle Island Helipad;AU;15;OC
+221;VGO;Vigo Airport;ES;856;EU
+222;YFO;Flin Flon Airport;CA;997;NA
+223;MWT;Moolawatana Airport;AU;265;OC
+224;XDJ;Djibo Airport;BF;1001;AF
+225;CET;Cholet Le Pontreau Airport;FR;443;EU
+226;SZM;Sesriem Airstrip;NA;2454;AF
+227;CWL;Cardiff International Airport;GB;220;EU
+228;BOA;Boma Airport;CD;26;AF
+229;HBK;Holbrook Municipal Airport;US;5262;NA
+230;MDR;Medfra Airport;US;435;NA
+231;SMF;Sacramento International Airport;US;27;NA
+232;BDN;Talhar Airport;PK;28;AS
+233;MVR;Salak Airport;CM;1390;AF
+234;XXN;Riyadh Air Base;SA;2082;AS
+235;SAG;Shirdi Airport;IN;1926;AS
+236;WML;Malaimbandy Airport;MG;597;AF
+237;FAQ;Frieda River Airport;PG;217;OC
+238;IBE;Perales Airport;CO;2999;SA
+239;MIZ;Mainoru Airstrip;AU;365;OC
+240;PHA;Phan Rang Airport;VN;101;AS
+241;EYP;El Yopal Airport;CO;1028;SA
+242;CFG;Jaime Gonzalez Airport;CU;102;NA
+243;MON;Mount Cook Airport;NZ;2153;OC
+244;GFK;Grand Forks International Airport;US;845;NA
+245;SSN;Seoul Air Base (K-16);KR;92;AS
+246;HAH;Prince Said Ibrahim International Airport;KM;93;AF
+247;CNH;Claremont Municipal Airport;US;545;NA
+248;STB;Santa Bárbara del Zulia Airport;VE;32;SA
+249;PBD;Porbandar Airport;IN;23;AS
+250;SAW;Sabiha Gökçen International Airport;TR;312;AS
+251;ELE;EL Real Airport;PA;65;NA
+252;IRI;Iringa Airport;TZ;4678;AF
+253;TKY;Turkey Creek Airport;AU;;OC
+254;KHD;Khoram Abad Airport;IR;3782;AS
+255;KSK;Karlskoga Airport;SE;400;EU
+256;URZ;Orūzgān Airport;AF;6725;AS
+257;WOE;Woensdrecht Air Base;NL;63;EU
+258;SZL;Whiteman Air Force Base;US;870;NA
+259;TRA;Tarama Airport;JP;36;AS
+260;TAB;Tobago-Crown Point Airport;TT;38;NA
+261;BDB;Bundaberg Airport;AU;107;OC
+262;YHD;Dryden Regional Airport;CA;1354;NA
+263;HAK;Haikou Meilan International Airport;CN;75;AS
+264;PPH;Perai Tepuy Airport;VE;2797;SA
+265;MSX;Mossendjo Airport;CG;1519;AF
+266;TEA;Tela Airport;HN;7;NA
+267;TTT;Taitung Airport;TW;143;AS
+268;INM;Innamincka Airport;AU;54;OC
+269;BES;Brest Bretagne Airport;FR;325;EU
+270;KAP;Kapanga Airport;CD;3025;AF
+271;BUX;Bunia Airport;CD;4045;AF
+272;GOM;Goma International Airport;CD;5089;AF
+273;GKT;Gatlinburg-Pigeon Forge Airport;US;1014;NA
+274;VNA;Saravane Airport;LA;574;AS
+275;KTE;Kerteh Airport;MY;18;AS
+276;YAO;Yaoundé Airport;CM;2464;AF
+277;ZBE;Zabreh Ostrava Airport;CZ;791;EU
+278;QUG;Chichester/Goodwood Airport;GB;98;EU
+279;PVZ;Casement Airport;US;699;NA
+280;ETR;Santa Rosa International Airport;EC;20;SA
+281;XJD;Al Udeid Air Base;QA;130;AS
+282;BPC;Bamenda Airport;CM;4065;AF
+283;PYM;Plymouth Municipal Airport;US;148;NA
+284;GOG;Gobabis Airport;NA;4731;AF
+285;RDA;Rockhampton Downs Airport;AU;;OC
+286;JOK;Yoshkar-Ola Airport;RU;348;EU
+287;WTE;Wotje Atoll Airport;MH;4;OC
+288;CDY;Cagayan de Sulu Airport;PH;;AS
+289;DLU;Dali Airport;CN;7050;AS
+290;SXB;Strasbourg Airport;FR;505;EU
+291;EBL;Erbil International Airport;IQ;1341;AS
+292;PYY;Mae Hong Son Airport;TH;1271;AS
+293;PPQ;Paraparaumu Airport;NZ;22;OC
+294;KCD;Kamur Airport;ID;25;AS
+295;GNR;Dr. Arturo H. Illia Airport;AR;852;SA
+296;MZI;Mopti Airport;ML;906;AF
+297;LFI;Langley Air Force Base;US;11;NA
+298;FAV;Fakarava Airport;PF;13;OC
+299;MHD;Mashhad International Airport;IR;3263;AS
+300;JCI;New Century Aircenter Airport;US;1087;NA
+301;SSQ;La Sarre Airport;CA;1048;NA
+302;CPX;Benjamin Rivera Noriega Airport;PR;49;NA
+303;ARE;Antonio Nery Juarbe Pol Airport;PR;23;NA
+304;SHH;Shishmaref Airport;US;12;NA
+305;MLI;Quad City International Airport;US;590;NA
+306;BTE;Sherbro International Airport;SL;14;AF
+307;OVR;Olavarria Airport;AR;551;SA
+308;RZA;Santa Cruz Airport;AR;364;SA
+309;VHZ;Vahitahi Airport;PF;9;OC
+310;RSB;Roseberth Airport;AU;55;OC
+311;IXG;Belgaum Airport;IN;2487;AS
+312;GFR;Granville Airport;FR;45;EU
+313;PHQ;The Monument Airport;AU;949;OC
+314;PGF;Perpignan-Rivesaltes (Llabanère) Airport;FR;144;EU
+315;FNT;Bishop International Airport;US;782;NA
+316;SZK;Skukuza Airport;ZA;1020;AF
+317;GZW;Qazvin Airport;IR;4184;AS
+318;QCP;Currais Novos Airport;BR;1148;SA
+319;LMN;Limbang Airport;MY;14;AS
+320;PNA;Pamplona Airport;ES;1504;EU
+321;TSN;Tianjin Binhai International Airport;CN;10;AS
+322;MGN;Baracoa Airport;CO;178;SA
+323;XBX;Bernay – St Martin Airport;FR;554;EU
+324;AIM;Ailuk Airport;MH;;OC
+325;KTA;Karratha Airport;AU;29;OC
+326;CMV;Coromandel Aerodrome;NZ;10;OC
+327;LIN;Milano Linate Airport;IT;353;EU
+328;DSD;La Désirade Airport;GP;10;NA
+329;JCM;Jacobina Airport;BR;1640;SA
+330;BCT;Boca Raton Airport;US;13;NA
+331;BKQ;Blackall Airport;AU;928;OC
+332;ORC;Orocue Airport;CO;434;SA
+333;HVK;Hólmavík Airport;IS;90;EU
+334;NGD;Captain Auguste George Airport;VG;9;NA
+335;OSL;Oslo Gardermoen Airport;NO;681;EU
+336;ZLT;La Tabatière Airport;CA;102;NA
+337;KMX;King Khaled Air Base;SA;6778;AS
+338;UKH;Mukhaizna Airport;OM;473;AS
+339;VPE;Ngjiva Pereira Airport;AO;3566;AF
+340;CRB;Collarenebri Airport;AU;152;OC
+341;PSV;Papa Stour Airport;GB;;EU
+342;MGC;Michigan City Municipal Airport;US;655;NA
+343;HGS;Hastings Airport;SL;60;AF
+344;KNS;King Island Airport;AU;132;OC
+345;HBT;Hambantota Seaplane Base;LK;0;AS
+346;NBS;Changbaishan Airport;CN;2874;AS
+347;BPM;Begumpet Airport;IN;1742;AS
+348;GGS;Gobernador Gregores Airport;AR;356;SA
+349;LUL;Hesler Noble Field;US;238;NA
+350;KUY;Kamusi Airport;PG;97;OC
+351;HDY;Hat Yai International Airport;TH;90;AS
+352;YSK;Sanikiluaq Airport;CA;104;NA
+353;YQG;Windsor Airport;CA;622;NA
+354;TAH;Tanna Airport;VU;19;OC
+355;DGT;Sibulan Airport;PH;15;AS
+356;MYU;Mekoryuk Airport;US;48;NA
+357;IPC;Mataveri Airport;CL;227;SA
+358;APO;Antonio Roldan Betancourt Airport;CO;46;SA
+359;AQY;Girdwood Airport;US;150;NA
+360;DEE;Mendeleyevo Airport;RU;584;AS
+361;CBJ;Cabo Rojo Airport;DO;262;NA
+362;MNF;Mana Island Airport;FJ;;OC
+363;SHA;Shanghai Hongqiao International Airport;CN;10;AS
+364;DJM;Djambala Airport;CG;2595;AF
+365;BNY;Bellona/Anua Airport;SB;60;OC
+366;ETS;Enterprise Municipal Airport;US;361;NA
+367;RTN;Raton Municipal-Crews Field;US;6352;NA
+368;EAL;Elenak Airport;MH;16;OC
+369;LCC;Lecce Galatina Air Base;IT;156;EU
+370;EUA;Kaufana Airport;TO;325;OC
+371;FYU;Fort Yukon Airport;US;433;NA
+372;MVP;Fabio Alberto Leon Bentley Airport;CO;680;SA
+373;CMP;Santana do Araguaia Airport;BR;597;SA
+374;AKK;Akhiok Airport;US;44;NA
+375;GUS;Grissom Air Reserve Base;US;812;NA
+376;KSF;Kassel-Calden Airport;DE;820;EU
+377;BEL;Val de Cans/Júlio Cezar Ribeiro International Airport;BR;54;SA
+378;OYO;Tres Arroyos Airport;AR;400;SA
+379;HGE;Higuerote Airport;VE;12;SA
+380;AFD;Port Alfred Airport;ZA;275;AF
+381;KRQ;Kramatorsk Airport;UA;646;EU
+382;SZA;Soyo Airport;AO;15;AF
+383;YNH;Hudsons Hope Airport;CA;2220;NA
+384;MVI;Manetai Airport;PG;170;OC
+385;NEF;Neftekamsk Airport;RU;456;EU
+386;LDC;Lindeman Island Airport;AU;;OC
+387;ANA;Angama Airport;KE;6180;AF
+388;TUH;Arnold Air Force Base;US;1067;NA
+389;ASK;Yamoussoukro Airport;CI;699;AF
+390;PIC;Pine Cay Airport;TC;3;NA
+391;FBL;Faribault Municipal Airport-Liz Wall Strohfus Field;US;1060;NA
+392;SQR;Soroako Airport;ID;1388;AS
+393;SHN;Sanderson Field;US;273;NA
+394;OKT;Oktyabrskiy Airport;RU;377;EU
+395;OTK;Tillamook Airport;US;36;NA
+396;PWR;Port Walter Seaplane Base;US;0;NA
+397;RMF;Marsa Alam International Airport;EG;251;AF
+398;BNL;Barnwell Regional Airport;US;246;NA
+399;BNK;Ballina Byron Gateway Airport;AU;7;OC
+400;FNH;Fincha Airport;ET;7600;AF
+401;LVS;Las Vegas Municipal Airport;US;6877;NA
+402;REZ;Resende Airport;BR;1320;SA
+403;MAG;Madang Airport;PG;20;OC
+404;CME;Ciudad del Carmen International Airport;MX;10;NA
+405;NPU;San Pedro Airport;CO;420;SA
+406;LPE;La Primavera Airport;CO;390;SA
+407;HCW;Cheraw Municipal Airport/Lynch Bellinger Field;US;239;NA
+408;BNM;Bodinumu Airport;PG;3700;OC
+409;YEL;Elliot Lake Municipal Airport;CA;1087;NA
+410;MAG;Madang Airport;PG;20;OC
+411;ZTR;Zhytomyr Airport;UA;;EU
+412;RHN;Skorpion Mine Airport;NA;1870;AF
+413;QPH;Palapye Airport;BW;3000;AF
+414;YDC;Drayton Valley Industrial Airport;CA;2776;NA
+415;GLH;Mid Delta Regional Airport;US;131;NA
+416;RUD;Shahroud Airport;IR;4215;AS
+417;LOO;Laghouat Airport;DZ;2510;AF
+418;JLN;Joplin Regional Airport;US;981;NA
+419;SAT;San Antonio International Airport;US;809;NA
+420;WSP;Waspam Airport;NI;98;NA
+421;GVX;Gävle Sandviken Airport;SE;224;EU
+422;PUI;Pureni Airport;PG;5512;OC
+423;PAZ;El Tajín National Airport;MX;497;NA
+424;JEG;Aasiaat Airport;GL;74;NA
+425;BBB;Benson Municipal Airport;US;1039;NA
+426;DRJ;Drietabbetje Airport;SR;236;SA
+427;FRI;Marshall Army Air Field;US;1065;NA
+428;SVJ;Svolvær Helle Airport;NO;27;EU
+429;ACS;Achinsk Airport;RU;1033;AS
+430;WOS;Wonsan Kalma International Airport;KP;7;AS
+431;WAR;Waris Airport;ID;1500;AS
+432;ELU;Guemar Airport;DZ;203;AF
+433;MDS;Middle Caicos Airport;TC;9;NA
+434;ONU;Ono-i-Lau Airport;FJ;110;OC
+435;DRB;Derby Airport;AU;24;OC
+436;POO;Poços de Caldas - Embaixador Walther Moreira Salles Airport;BR;4135;SA
+437;CPO;Desierto de Atacama Airport;CL;670;SA
+438;FRL;Forlì Airport;IT;97;EU
+439;DUQ;Duncan Airport;CA;300;NA
+440;HRM;Hassi R'Mel Airport;DZ;2540;AF
+441;SSK;Sturt Creek Airport;AU;;OC
+442;BJC;Rocky Mountain Metropolitan Airport;US;5673;NA
+443;BKI;Kota Kinabalu International Airport;MY;10;AS
+444;UST;Northeast Florida Regional Airport;US;10;NA
+445;YFI;Fort Mackay / Firebag;CA;1762;NA
+446;BZU;Buta Zega Airport;CD;1378;AF
+447;SOL;Solomon State Field;US;25;NA
+448;OFF;Offutt Air Force Base;US;1052;NA
+449;AMT;Amata Airport;AU;695;OC
+450;CTD;Alonso Valderrama Airport;PA;33;NA
+451;TWE;Taylor Airport;US;440;NA
+452;MTW;Manitowoc County Airport;US;651;NA
+453;PZE;Penzance Heliport;GB;14;EU
+454;IRU;Iranamadu Seaplane Base;LK;102;AS
+455;AMA;Rick Husband Amarillo International Airport;US;3607;NA
+456;HWA;Hawabango Airport;PG;4563;OC
+457;BAY;Maramureș International Airport;RO;605;EU
+458;WGT;Wangaratta Airport;AU;504;OC
+459;CTR;Cattle Creek Airport;AU;;OC
+460;CCA;Chimore Airport;BO;875;SA
+461;SKI;Skikda Airport;DZ;27;AF
+462;NSI;Yaoundé Nsimalen International Airport;CM;2278;AF
+463;LSV;Nellis Air Force Base;US;1870;NA
+464;PKV;Pskov Airport;RU;154;EU
+465;WOA;Wonenara Airport;PG;5028;OC
+466;SMH;Sapmanga Airport;PG;2912;OC
+467;ISD;Santa Bárbara Airport;CO;10;SA
+468;MBM;Mkambati Airport;ZA;560;AF
+469;DLH;Duluth International Airport;US;1428;NA
+470;EAE;Siwo Airport;VU;7;OC
+471;OKA;Naha Airport;JP;12;AS
+472;WMB;Warrnambool Airport;AU;242;OC
+473;CCA;Chimore Airport;BO;875;SA
+474;XBB;Blubber Bay Seaplane Base;CA;0;NA
+475;FXE;Fort Lauderdale Executive Airport;US;13;NA
+476;YXP;Pangnirtung Airport;CA;75;NA
+477;YNB;Prince Abdulmohsin Bin Abdulaziz Airport;SA;26;AS
+478;NRN;Weeze Airport;DE;106;EU
+479;0;Fazenda Constância Airport;BR;1673;SA
+480;KST;Kosti Airport;SD;1289;AF
+481;SFA;Sfax Thyna International Airport;TN;85;AF
+482;KNQ;Koné Airport;NC;23;OC
+483;MCG;McGrath Airport;US;341;NA
+484;VGD;Vologda Airport;RU;387;EU
+485;SXY;Sidney Municipal Airport;US;1027;NA
+486;CMH;John Glenn Columbus International Airport;US;815;NA
+487;WLC;Walcha Airport;AU;;OC
+488;LHK;Guangzhou MR Air Base;CN;;AS
+489;FMN;Four Corners Regional Airport;US;5506;NA
+490;GBF;Negarbo(Negabo) Airport;PG;4500;OC
+491;AMF;Ama Airport;PG;145;OC
+492;OSS;Osh Airport;KG;2927;AS
+493;WMD;Mandabe Airport;MG;951;AF
+494;CFS;Coffs Harbour Airport;AU;18;OC
+495;MJU;Tampa Padang Airport;ID;49;AS
+496;BXW;Bawean Airport;ID;93;AS
+497;TJL;Plínio Alarcom Airport;BR;1050;SA
+498;GYA;Capitán de Av. Emilio Beltrán Airport;BO;557;SA
+499;HLD;Dongshan Airport;CN;2169;AS
+500;KYO;Tampa North Aero Park Airport;US;68;NA
+501;BJY;Batajnica Air Base;RS;265;EU
+502;WLS;Hihifo Airport;WF;79;OC
+503;NLK;Norfolk Island International Airport;NF;371;OC
+504;LJU;Ljubljana Jože Pučnik Airport;SI;1273;EU
+505;AHI;Amahai Airport;ID;29;AS
+506;UMS;Ust-Maya Airport;RU;561;EU
+507;IQA;Al Asad Air Base;IQ;618;AS
+508;LPE;La Primavera Airport;CO;3600;SA
+509;MZE;Manatee Airport;BZ;343;NA
+510;DGC;Degah Bur Airport;ET;3550;AF
+511;ICR;Nicaro Airport;CU;26;NA
+512;PGV;Pitt Greenville Airport;US;26;NA
+513;MRJ;Colon Airport;HN;1240;NA
+514;CEC;Jack Mc Namara Field Airport;US;61;NA
+515;GWE;Thornhill Air Base;ZW;4680;AF
+516;ADF;Adıyaman Airport;TR;2216;AS
+517;ORC;Orocue Airport;CO;434;SA
+518;LTH;Lathrop Wells Airport / Jackass Aeropark;US;2650;NA
+519;BXO;Buochs Airport;CH;1475;EU
+520;TKS;Tokushima Airport/JMSDF Air Base;JP;26;AS
+521;SXF;Berlin-Schönefeld Airport;DE;157;EU
+522;BWI;Baltimore/Washington International Thurgood Marshall Airport;US;146;NA
+523;DKK;Chautauqua County-Dunkirk Airport;US;693;NA
+524;UMR;Woomera Airfield;AU;548;OC
+525;LUS;Lusanga Airport;CD;1365;AF
+526;GRX;Federico Garcia Lorca Airport;ES;1860;EU
+527;ZAG;Zagreb Airport;HR;353;EU
+528;XOG;Orange-Caritat (BA 115) Air Base;FR;197;EU
+529;MMM;Middlemount Airport;AU;547;OC
+530;UEL;Quelimane Airport;MZ;36;AF
+531;CJS;Abraham González International Airport;MX;3904;NA
+532;IBZ;Ibiza Airport;ES;24;EU
+533;MPX;Miyanmin Airport;PG;2500;OC
+534;GNA;Hrodna Airport;BY;443;EU
+535;OCN;Oceanside Municipal Airport;US;28;NA
+536;WPA;Cabo 1° Juan Román Airport;CL;30;SA
+537;PEK;Beijing Capital International Airport;CN;116;AS
+538;HCR;Holy Cross Airport;US;70;NA
+539;ICC;Andrés Miguel Salazar Marcano Airport;VE;10;SA
+540;PHC;Port Harcourt International Airport;NG;87;AF
+541;PEE;Bolshoye Savino Airport;RU;404;EU
+542;BFE;Bielefeld Airport;DE;454;EU
+543;FAH;Farah Airport;AF;3083;AS
+544;BKR;Bokoro Airport;TD;984;AF
+545;SNJ;San Julian Air Base;CU;98;NA
+546;ADG;Lenawee County Airport;US;798;NA
+547;GOJ;Nizhny Novgorod Strigino International Airport;RU;256;EU
+548;ZVK;Savannakhet Airport;LA;509;AS
+549;XFN;Xiangyang Liuji Airport;CN;;AS
+550;KUP;Kupiano Airport;PG;90;OC
+551;AEA;Abemama Atoll Airport;KI;8;OC
+552;SNK;Winston Field;US;2430;NA
+553;ADU;Ardabil Airport;IR;4315;AS
+554;THU;Thule Air Base;GL;251;NA
+555;SRE;Juana Azurduy De Padilla Airport;BO;9540;SA
+556;LID;Valkenburg Naval Air Base;NL;1;EU
+557;MAF;Midland International Airport;US;2871;NA
+558;VIJ;Virgin Gorda Airport;VG;9;NA
+559;SMV;Samedan Airport;CH;5600;EU
+560;RMK;Renmark Airport;AU;115;OC
+561;VHC;Saurimo Airport;AO;3584;AF
+562;YRC;Refuge Cove Seaplane Base;CA;0;NA
+563;XBG;Bogande Airport;BF;984;AF
+564;RAQ;Sugimanuru Airport;ID;132;AS
+565;GEY;South Big Horn County Airport;US;3939;NA
+566;TPN;Tiputini Airport;EC;997;SA
+567;ACL;Aguaclara Airport;CO;1090;SA
+568;AZG;Pablo L. Sidar Airport;MX;1033;NA
+569;DTL;Detroit Lakes Airport - Wething Field;US;1397;NA
+570;YHY;Hay River / Merlyn Carter Airport;CA;541;NA
+571;MYY;Miri Airport;MY;59;AS
+572;BTP;Pittsburgh/Butler Regional Airport;US;1248;NA
+573;AIE;Aiome Airport;PG;350;OC
+574;KRQ;Kramatorsk Airport;UA;646;EU
+575;PUM;Pomala Airport;ID;88;AS
+576;GZA;Yasser Arafat International Airport;PS;320;AS
+577;XPL;Coronel Enrique Soto Cano Air Base;HN;2061;NA
+578;AKL;Auckland International Airport;NZ;23;OC
+579;KKH;Kongiganak Airport;US;30;NA
+580;GGT;Exuma International Airport;BS;9;NA
+581;DPA;Dupage Airport;US;759;NA
+582;TWA;Twin Hills Airport;US;82;NA
+583;BOW;Bartow Municipal Airport;US;125;NA
+584;JTR;Santorini Airport;GR;127;EU
+585;MVP;Fabio Alberto Leon Bentley Airport;CO;680;SA
+586;BHR;Bharatpur Airport;NP;600;AS
+587;SAB;Juancho E. Yrausquin Airport;BQ;60;NA
+588;CYX;Cherskiy Airport;RU;20;AS
+589;JAI;Jaipur International Airport;IN;1263;AS
+590;HVS;Hartsville Regional Airport;US;364;NA
+591;CIF;Chifeng Airport;CN;;AS
+592;PGX;Périgueux-Bassillac Airport;FR;328;EU
+593;LAN;Capital City Airport;US;861;NA
+594;UHE;Kunovice Airport;CZ;581;EU
+595;MRA;Misratah Airport;LY;60;AF
+596;ROO;Maestro Marinho Franco Airport;BR;1467;SA
+597;YGQ;Geraldton Greenstone Regional Airport;CA;1144;NA
+598;RLG;Rostock-Laage Airport;DE;138;EU
+599;YPI;Port Simpson Seaplane Base;CA;0;NA
+600;0;Mundo Novo Airport;BR;1788;SA
+601;TKA;Talkeetna Airport;US;358;NA
+602;DRB;Derby Airport;AU;24;OC
+603;JIW;Jiwani Airport;PK;186;AS
+604;TWZ;Pukaki Airport;NZ;1575;OC
+605;YVD;Yeva Airport;PG;4510;OC
+606;XGA;Gaoua Airport;BF;1099;AF
+607;BQG;Bogorodskoye Airport;RU;;EU
+608;WMB;Warrnambool Airport;AU;242;OC
+609;PST;Preston Airport;CU;13;NA
+610;FBK;Ladd AAF Airfield;US;454;NA
+611;ARO;Arboletes Airport;CO;13;SA
+612;TCX;Tabas Airport;IR;2312;AS
+613;JBQ;La Isabela International Airport;DO;98;NA
+614;PEX;Pechora Airport;RU;98;EU
+615;SKR;Shakiso Airport;ET;5815;AF
+616;NQY;Newquay Cornwall Airport;GB;390;EU
+617;MHD;Mashhad International Airport;IR;3263;AS
+618;RSH;Russian Mission Airport;US;51;NA
+619;KKQ;Krasnoselkup Airport;RU;101;EU
+620;TLQ;Turpan Jiaohe Airport;CN;934;AS
+621;FTX;Owando Airport;CG;1214;AF
+622;YBH;Bull Harbour Water Aerodrome;CA;0;NA
+623;CGG;Casiguran Airport;PH;48;AS
+624;GUY;Guymon Municipal Airport;US;3123;NA
+625;MSF;Mount Swan Airport;AU;1641;OC
+626;NDR;Nador International Airport;MA;574;AF
+627;NIX;Nioro du Sahel Airport;ML;778;AF
+628;RBK;French Valley Airport;US;1350;NA
+629;DBC;Baicheng Chang'an Airport;CN;480;AS
+630;AKC;Akron Fulton International Airport;US;1067;NA
+631;VGS;General Villegas Airport;AR;383;SA
+632;TUL;Tulsa International Airport;US;677;NA
+633;NVN;Nervino Airport;US;4900;NA
+634;VQS;Vieques Airport;PR;19;NA
+635;CYT;Yakataga Airport;US;12;NA
+636;LAX;Los Angeles International Airport;US;125;NA
+637;LMT;Crater Lake-Klamath Regional Airport;US;4095;NA
+638;HFD;Hartford Brainard Airport;US;18;NA
+639;QLT;Latina Air Base;IT;94;EU
+640;CSS;Cassilândia Airport;BR;1568;SA
+641;ALW;Walla Walla Regional Airport;US;1194;NA
+642;YLI;Ylivieska Airfield;FI;252;EU
+643;ZAR;Zaria Airport;NG;2170;AF
+644;NAS;Lynden Pindling International Airport;BS;16;NA
+645;POO;Poços de Caldas - Embaixador Walther Moreira Salles Airport;BR;4135;SA
+646;LIK;Likiep Airport;MH;;OC
+647;JUT;Jutigalpa airport;HN;1314;NA
+648;AHI;Amahai Airport;ID;29;AS
+649;CJC;El Loa Airport;CL;7543;SA
+650;SWH;Swan Hill Airport;AU;234;OC
+651;EAE;Siwo Airport;VU;7;OC
+652;YQL;Lethbridge County Airport;CA;3048;NA
+653;AEG;Aek Godang Airport;ID;922;AS
+654;QXH;Schönhagen Airport;DE;152;EU
+655;ISO;Kinston Regional Jetport At Stallings Field;US;93;NA
+656;NIO;Nioki Airport;CD;1043;AF
+657;PUB;Pueblo Memorial Airport;US;4726;NA
+658;YOH;Oxford House Airport;CA;663;NA
+659;AKX;Aktobe Airport;KZ;738;AS
+660;THD;Tho Xuan Airport;VN;59;AS
+661;NKG;Nanjing Lukou Airport;CN;49;AS
+662;EGC;Bergerac-Roumanière Airport;FR;171;EU
+663;SSW;Stuart Island Airpark;US;10;NA
+664;MJS;Maganja da Costa Airport;MZ;215;AF
+665;BTN;Marlboro County Jetport H.E. Avent Field;US;147;NA
+666;ZRH;Zürich Airport;CH;1416;EU
+667;TRR;China Bay Airport;LK;6;AS
+668;SBF;Sardeh Band Airport;AF;6971;AS
+669;KLN;Larsen Bay Airport;US;87;NA
+670;IJK;Izhevsk Airport;RU;531;EU
+671;FOR;Pinto Martins International Airport;BR;82;SA
+672;EFL;Kefallinia Airport;GR;59;EU
+673;YZS;Coral Harbour Airport;CA;210;NA
+674;ONS;Onslow Airport;AU;7;OC
+675;PMB;Pembina Municipal Airport;US;795;NA
+676;SAT;San Antonio International Airport;US;809;NA
+677;YCY;Clyde River Airport;CA;87;NA
+678;ALR;Alexandra Airport;NZ;752;OC
+679;TTU;Saniat R'mel Airport;MA;10;AF
+680;THZ;Tahoua Airport;NE;1266;AF
+681;NUS;Norsup Airport;VU;23;OC
+682;SGI;Mushaf Air Base;PK;614;AS
+683;WGN;Shaoyang Wugang Airport;CN;1444;AS
+684;MAP;Mamai Airport;PG;90;OC
+685;CEY;Kyle Oakley Field;US;577;NA
+686;KLG;Kalskag Airport;US;55;NA
+687;SNU;Abel Santamaria Airport;CU;338;NA
+688;TJH;Tajima Airport;JP;584;AS
+689;ROT;Rotorua Regional Airport;NZ;935;OC
+690;YNT;Yantai Laishan Airport;CN;59;AS
+691;SOO;Söderhamn Airport;SE;88;EU
+692;SXQ;Soldotna Airport;US;113;NA
+693;BAR;Qionghai Bo'ao Airport;CN;30;AS
+694;BRC;San Carlos De Bariloche Airport;AR;2774;SA
+695;INF;In Guezzam Airport;DZ;1312;AF
+696;SLG;Smith Field;US;1191;NA
+697;RBS;Orbost Airport;AU;28;OC
+698;EVE;Harstad/Narvik Airport, Evenes;NO;84;EU
+699;TML;Tamale Airport;GH;553;AF
+700;YAK;Yakutat Airport;US;33;NA
+701;GPB;Tancredo Thomas de Faria Airport;BR;3494;SA
+702;NOV;Nova Lisboa Airport;AO;5587;AF
+703;BUA;Buka Airport;PG;11;OC
+704;KFE;Fortescue - Dave Forrest Aerodrome;AU;1555;OC
+705;KDV;Vunisea Airport;FJ;6;OC
+706;LEH;Le Havre Octeville Airport;FR;313;EU
+707;WSP;Waspam Airport;NI;98;NA
+708;TTI;Tetiaroa Airport;PF;7;OC
+709;NDG;Qiqihar Sanjiazi Airport;CN;477;AS
+710;MAV;Maloelap Island Airport;MH;4;OC
+711;SCU;Antonio Maceo International Airport;CU;249;NA
+712;HRL;Valley International Airport;US;36;NA
+713;TUP;Tupelo Regional Airport;US;346;NA
+714;KWY;Kiwayu Airport;KE;21;AF
+715;UKB;Kobe Airport;JP;22;AS
+716;GYE;José Joaquín de Olmedo International Airport;EC;19;SA
+717;KGU;Keningau Airport;MY;1036;AS
+718;YMD;Mould Bay Airport;CA;30;NA
+719;TZX;Trabzon International Airport;TR;104;AS
+720;NAP;Naples International Airport;IT;294;EU
+721;PAF;Pakuba Airfield;UG;2365;AF
+722;BCX;Beloretsk Airport;RU;1827;EU
+723;AOP;Alferez FAP Alfredo Vladimir Sara Bauer Airport;PE;728;SA
+724;LBQ;Lambarene Airport;GA;82;AF
+725;KGS;Kos Airport;GR;412;EU
+726;WUN;Wiluna Airport;AU;1649;OC
+727;FBL;Faribault Municipal Airport-Liz Wall Strohfus Field;US;1060;NA
+728;IMD;Imonda Airport;PG;990;OC
+729;GSW;Greater Southwest International Airport-Amon Carter Field;US;568;NA
+730;XMY;Yam Island Airport;AU;;OC
+731;GSQ;Shark El Oweinat International Airport;EG;859;AF
+732;OKK;Kokomo Municipal Airport;US;830;NA
+733;ALZ;Alitak Seaplane Base;US;;NA
+734;RED;Mifflin County Airport;US;819;NA
+735;REW;Rewa Airport, Chorhata, REWA;IN;1000;AS
+736;QHV;Novo Hamburgo Airport;BR;66;SA
+737;TQL;Tarko-Sale Airport;RU;82;AS
+738;BGT;Bagdad Airport;US;4183;NA
+739;CTF;Coatepeque Airport;GT;1486;NA
+740;CKC;Cherkasy International Airport;UA;375;EU
+741;GAH;Gayndah Airport;AU;369;OC
+742;SUY;Suntar Airport;RU;452;AS
+743;CCI;Concórdia Airport;BR;2461;SA
+744;PRB;Paso Robles Municipal Airport;US;840;NA
+745;BXS;Borrego Valley Airport;US;520;NA
+746;MHZ;RAF Mildenhall;GB;33;EU
+747;DMK;Don Mueang International Airport;TH;9;AS
+748;YPM;Pikangikum Airport;CA;1114;NA
+749;SOU;Southampton Airport;GB;44;EU
+750;GLD;Renner Field-Goodland Municipal Airport;US;3656;NA
+751;DTN;Shreveport Downtown Airport;US;179;NA
+752;YPO;Peawanuck Airport;CA;173;NA
+753;FRK;Frégate Island Airport;SC;610;AF
+754;DXB;Dubai International Airport;AE;62;AS
+755;EUG;Mahlon Sweet Field;US;374;NA
+756;KAJ;Kajaani Airport;FI;483;EU
+757;CWL;Cardiff International Airport;GB;220;EU
+758;ZIG;Ziguinchor Airport;SN;75;AF
+759;NAA;Narrabri Airport;AU;788;OC
+760;TRM;Jacqueline Cochran Regional Airport;US;-115;NA
+761;CZX;Changzhou Benniu Airport;CN;;AS
+762;YNH;Hudsons Hope Airport;CA;2220;NA
+763;VTE;Wattay International Airport;LA;564;AS
+764;IIS;Nissan Island Airport;PG;52;OC
+765;AZS;Samaná El Catey International Airport;DO;30;NA
+766;YNG;Youngstown Warren Regional Airport;US;1192;NA
+767;LGH;Leigh Creek Airport;AU;856;OC
+768;MVE;Montevideo Chippewa County Airport;US;1034;NA
+769;HBD;Habi Airport;PG;993;OC
+770;PUD;Puerto Deseado Airport;AR;268;SA
+771;UNN;Ranong Airport;TH;57;AS
+772;PLY;Plymouth Municipal Airport;US;800;NA
+773;CBM;Columbus Air Force Base;US;219;NA
+774;LZR;Lizard Island Airport;AU;70;OC
+775;MKI;M'Boki Airport;CF;1969;AF
+776;UKI;Ukiah Municipal Airport;US;614;NA
+777;LAR;Laramie Regional Airport;US;7284;NA
+778;BVO;Bartlesville Municipal Airport;US;711;NA
+779;BOG;El Dorado International Airport;CO;8361;SA
+780;DRT;Del Rio International Airport;US;1002;NA
+781;DEM;Dembidollo Airport;ET;5200;AF
+782;RKD;Knox County Regional Airport;US;56;NA
+783;LNK;Lincoln Airport;US;1219;NA
+784;NIT;Niort-Souché Airport;FR;203;EU
+785;PUQ;Pdte. Carlos Ibañez del Campo Airport;CL;139;SA
+786;OSK;Oskarshamn Airport;SE;96;EU
+787;YCK;Tommy Kochon Airport;CA;870;NA
+788;LTM;Lethem Airport;GY;351;SA
+789;BYB;Dibba Airport;OM;45;AS
+790;YZX;CFB Greenwood;CA;92;NA
+791;GRT;Gujrat Airport;PK;760;AS
+792;AFS;Sugraly Airport;UZ;1396;AS
+793;SRR;Dunwich Airport;AU;260;OC
+794;CZT;Dimmit County Airport;US;599;NA
+795;KBN;Tunta Airport;CD;2766;AF
+796;DCA;Ronald Reagan Washington National Airport;US;15;NA
+797;WLR;Loring Seaplane Base;US;0;NA
+798;RBF;Big Bear City Airport;US;6752;NA
+799;YGJ;Miho Yonago Airport;JP;20;AS
+800;LGM;Laiagam Airport;PG;7267;OC
+801;JSH;Sitia Airport;GR;376;EU
+802;OVR;Olavarria Airport;AR;551;SA
+803;WPK;Wrotham Park Airport;AU;152;OC
+804;PCS;Picos Airport;BR;1050;SA
+805;AEA;Abemama Atoll Airport;KI;8;OC
+806;BRM;Barquisimeto International Airport;VE;2042;SA
+807;TBJ;Tabarka 7 Novembre Airport;TN;230;AF
+808;BZK;Bryansk Airport;RU;663;EU
+809;BTK;Bratsk Airport;RU;1610;AS
+810;AES;Ålesund Airport;NO;69;EU
+811;GEG;Spokane International Airport;US;2376;NA
+812;SLA;Martin Miguel De Guemes International Airport;AR;4088;SA
+813;ITR;Francisco Vilela do Amaral Airport;BR;1630;SA
+814;OGA;Searle Field;US;3279;NA
+815;SYZ;Shiraz Shahid Dastghaib International Airport;IR;4920;AS
+816;ISN;Sloulin Field International Airport;US;1982;NA
+817;YKX;Kirkland Lake Airport;CA;1157;NA
+818;ESD;Orcas Island Airport;US;31;NA
+819;UYN;Yulin Yuyang Airport;CN;;AS
+820;BOS;General Edward Lawrence Logan International Airport;US;20;NA
+821;YXX;Abbotsford Airport;CA;195;NA
+822;SDR;Santander Airport;ES;16;EU
+823;MJX;Ocean County Airport;US;82;NA
+824;BJT;Bentota River Waterdrome;LK;;AS
+825;YBJ;Baie-Johan-Beetz Water Aerodrome;CA;;NA
+826;VDE;Hierro Airport;ES;103;EU
+827;AHD;Ardmore Downtown Executive Airport;US;844;NA
+828;BMZ;Bamu Airport;PG;50;OC
+829;GCV;Gravatai Airport;BR;25;SA
+830;KAA;Kasama Airport;ZM;4541;AF
+831;RUE;Rughenda Airfield;CD;5757;AF
+832;LEN;Leon Airport;ES;3006;EU
+833;TOO;San Vito De Java Airport;CR;3228;NA
+834;ANR;Antwerp International Airport (Deurne);BE;39;EU
+835;SRR;Dunwich Airport;AU;260;OC
+836;MCL;McKinley National Park Airport;US;1720;NA
+837;GNF;Gansner Field;US;3415;NA
+838;DTU;Wudalianchi Dedu Airport;CN;984;AS
+839;PXH;Prominent Hill Airport;AU;745;OC
+840;BJJ;Wayne County Airport;US;1136;NA
+841;BWM;Bowman Regional Airport;US;2965;NA
+842;LHS;Las Heras Airport;AR;1082;SA
+843;NST;Nakhon Si Thammarat Airport;TH;13;AS
+844;CBS;Oro Negro Airport;VE;164;SA
+845;LIA;Liangping Airport;CN;;AS
+846;CIR;Cairo Regional Airport;US;321;NA
+847;OUR;Batouri Airport;CM;2152;AF
+848;PYB;Jeypore Airport;IN;1952;AS
+849;KRU;Kerau Airport;PG;7360;OC
+850;CHX;Cap Manuel Niño International Airport;PA;19;NA
+851;FMU;Florence Municipal Airport;US;51;NA
+852;QSF;Ain Arnat Airport;DZ;3360;AF
+853;RBQ;Rurenabaque Airport;BO;676;SA
+854;BYJ;Beja Airport / Airbase;PT;636;EU
+855;HKS;Hawkins Field;US;341;NA
+856;XMP;Macmillan Pass Airport;CA;3810;NA
+857;WMT;Zunyi Maotai Airport;CN;4068;AS
+858;NAN;Nadi International Airport;FJ;59;OC
+859;BMR;Baltrum Airport;DE;7;EU
+860;UBJ;Yamaguchi Ube Airport;JP;23;AS
+861;IRO;Birao Airport;CF;1696;AF
+862;HIE;Mount Washington Regional Airport;US;1074;NA
+863;HZG;Hanzhong Chenggu Airport;CN;;AS
+864;PBQ;Pimenta Bueno Airport;BR;682;SA
+865;OCN;Oceanside Municipal Airport;US;28;NA
+866;TAD;Perry Stokes Airport;US;5762;NA
+867;FOK;Francis S Gabreski Airport;US;67;NA
+868;YLC;Kimmirut Airport;CA;175;NA
+869;LNK;Lincoln Airport;US;1219;NA
+870;YTH;Thompson Airport;CA;729;NA
+871;FOM;Foumban Nkounja Airport;CM;3963;AF
+872;ASC;Ascención De Guarayos Airport;BO;807;SA
+873;SYT;Saint-Yan Airport;FR;796;EU
+874;TMZ;Thames Aerodrome;NZ;10;OC
+875;WTT;Wantoat Airport;PG;3900;OC
+876;RLO;Valle Del Conlara International Airport;AR;2021;SA
+877;GEA;Nouméa Magenta Airport;NC;10;OC
+878;HUS;Hughes Airport;US;299;NA
+879;STD;Mayor Buenaventura Vivas International Airport;VE;1083;SA
+880;ECV;Cuatro Vientos Airport;ES;2269;EU
+881;PEA;Penneshaw Airport;AU;;OC
+882;MJJ;Moki Airport;PG;3030;OC
+883;RVY;Presidente General Don Oscar D. Gestido International Airport;UY;712;SA
+884;RKH;Rock Hill - York County Airport;US;666;NA
+885;CHU;Chuathbaluk Airport;US;244;NA
+886;VAO;Suavanao Airport;SB;;OC
+887;UGA;Bulgan Airport;MN;4311;AS
+888;HGH;Hangzhou Xiaoshan International Airport;CN;23;AS
+889;QGF;Montenegro Airport;BR;125;SA
+890;LGM;Laiagam Airport;PG;7267;OC
+891;ZRM;Sarmi Airport;ID;10;AS
+892;QLP;Sarzana-Luni Air Base;IT;45;EU
+893;TRO;Taree Airport;AU;38;OC
+894;NML;Fort McMurray / Mildred Lake Airport;CA;1046;NA
+895;CXM;Camaxilo Airport;AO;3957;AF
+896;HGD;Hughenden Airport;AU;1043;OC
+897;TUH;Arnold Air Force Base;US;1067;NA
+898;ILA;Illaga Airport;ID;7989;AS
+899;SDN;Sandane Airport (Anda);NO;196;EU
+900;AAN;Al Ain International Airport;AE;869;AS
+901;MQQ;Moundou Airport;TD;1407;AF
+902;KSI;Kissidougou Airport;GN;1808;AF
+903;IAB;Mc Connell Air Force Base;US;1371;NA
+904;SBY;Salisbury Ocean City Wicomico Regional Airport;US;52;NA
+905;HKY;Hickory Regional Airport;US;1190;NA
+906;FMN;Four Corners Regional Airport;US;5506;NA
+907;EBM;El Borma Airport;TN;827;AF
+908;BFV;Buri Ram Airport;TH;590;AS
+909;PLE;Paiela Airport;PG;6100;OC
+910;TAZ;Daşoguz Airport;TM;272;AS
+911;GGO;Guiglo Airport;CI;722;AF
+912;TES;Tessenei Airport;ER;2018;AF
+913;INX;Inanwatan Airport;ID;9;AS
+914;SWG;Satwag Airport;PG;4185;OC
+915;CLK;Clinton Regional Airport;US;1616;NA
+916;WWK;Wewak International Airport;PG;19;OC
+917;MKN;Malekolon Airport;PG;5;OC
+918;KRI;Kikori Airport;PG;50;OC
+919;EOK;Keokuk Municipal Airport;US;671;NA
+920;BUV;Bella Union Airport;UY;70;SA
+921;PTV;Porterville Municipal Airport;US;442;NA
+922;CNL;Sindal Airport;DK;92;EU
+923;MTF;Mizan Teferi Airport;ET;4396;AF
+924;MQQ;Moundou Airport;TD;1407;AF
+925;KBR;Sultan Ismail Petra Airport;MY;16;AS
+926;FSI;Henry Post Army Air Field (Fort Sill);US;1189;NA
+927;OSD;Åre Östersund Airport;SE;1233;EU
+928;AHF;Arapahoe Municipal Airport;US;2270;NA
+929;NTN;Normanton Airport;AU;73;OC
+930;YQZ;Quesnel Airport;CA;1789;NA
+931;BOC;Bocas Del Toro International Airport;PA;10;NA
+932;EGX;Egegik Airport;US;92;NA
+933;LPC;Lompoc Airport;US;88;NA
+934;AIO;Atlantic Municipal Airport;US;1165;NA
+935;KRE;Kirundo Airport;BI;4511;AF
+936;DPT;Deputatskiy Airport;RU;950;EU
+937;ORG;Zorg en Hoop Airport;SR;10;SA
+938;PGN;Pangia Airport;PG;5340;OC
+939;LKP;Lake Placid Airport;US;1747;NA
+940;MHY;Morehead Airport;PG;100;OC
+941;YCV;Cartierville Airport;CA;120;NA
+942;VTZ;Vishakhapatnam Airport;IN;15;AS
+943;JDR;Prefeito Octávio de Almeida Neves Airport;BR;3117;SA
+944;0;EMBRAER - Unidade Gavião Peixoto Airport;BR;1998;SA
+945;GRY;Grímsey Airport;IS;66;EU
+946;RUM;Rumjatar Airport;NP;4500;AS
+947;0;Oeiras Airport;BR;820;SA
+948;DGL;Douglas Municipal Airport;US;4173;NA
+949;0;Leme Airport;BR;2024;SA
+950;SRO;Santana Ramos Airport;CO;6017;SA
+951;SCF;Scottsdale Airport;US;1510;NA
+952;KHD;Khoram Abad Airport;IR;3782;AS
+953;LSF;Lawson Army Air Field (Fort Benning);US;232;NA
+954;DCF;Canefield Airport;DM;13;NA
+955;AHJ;Hongyuan Airport;CN;11600;AS
+956;BID;Block Island State Airport;US;108;NA
+957;JRS;Jerusalem Airport;PS;2485;AS
+958;AHU;Cherif Al Idrissi Airport;MA;95;AF
+959;ENT;Eniwetok Airport;MH;13;OC
+960;JKL;Kalymnos Airport;GR;771;EU
+961;SQN;Emalamo Sanana Airport;ID;39;AS
+962;SQX;São Miguel do Oeste Airport;BR;2180;SA
+963;NKN;Nankina Airport;PG;5800;OC
+964;LUC;Laucala Island Airport;FJ;10;OC
+965;PCA;Portage Creek Airport;US;137;NA
+966;HOR;Horta Airport;PT;118;EU
+967;MJY;Mangunjaya Airport;ID;76;AS
+968;JDZ;Jingdezhen Airport;CN;112;AS
+969;XFN;Xiangyang Liuji Airport;CN;;AS
+970;MVO;Mongo Airport;TD;1414;AF
+971;STN;London Stansted Airport;GB;348;EU
+972;HVA;Analalava Airport;MG;345;AF
+973;GLH;Mid Delta Regional Airport;US;131;NA
+974;KRF;Kramfors Sollefteå Airport;SE;34;EU
+975;AVU;Avu Avu Airport;SB;25;OC
+976;NSI;Yaoundé Nsimalen International Airport;CM;2278;AF
+977;TCK;Tinboli Airport;PG;59;OC
+978;EIE;Yeniseysk Airport;RU;253;AS
+979;SJK;Professor Urbano Ernesto Stumpf Airport;BR;2120;SA
+980;TKE;Tenakee Seaplane Base;US;0;NA
+981;WTN;RAF Waddington;GB;231;EU
+982;DFI;Defiance Memorial Airport;US;707;NA
+983;SMU;Sheep Mountain Airport;US;2750;NA
+984;MWG;Marawaka Airport;PG;6050;OC
+985;BYK;Bouaké Airport;CI;1230;AF
+986;HMT;Hemet Ryan Airport;US;1512;NA
+987;LMI;Lumi Airport;PG;1750;OC
+988;KJP;Kerama Airport;JP;156;AS
+989;NDJ;N'Djamena International Airport;TD;968;AF
+990;VGA;Vijayawada Airport;IN;82;AS
+991;NRN;Weeze Airport;DE;106;EU
+992;CVI;Caleta Olivia Airport;AR;37;SA
+993;MUW;Ghriss Airport;DZ;1686;AF
+994;PCV;Punta Chivato Airport;MX;49;NA
+995;MXT;Maintirano Airport;MG;95;AF
+996;AAH;Aachen-Merzbrück Airport;DE;623;EU
+997;KMT;Kampot Airport;KH;44;AS
+998;HGZ;Hog River Airport;US;534;NA
+999;MWK;Tarempa Airport;ID;10;AS
+1000;CXL;Calexico International Airport;US;4;NA
