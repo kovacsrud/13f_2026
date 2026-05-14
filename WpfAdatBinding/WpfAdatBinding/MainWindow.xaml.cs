@@ -26,7 +26,9 @@ namespace WpfAdatBinding
 
         private void menuitemDronok_Click(object sender, RoutedEventArgs e)
         {
-
+            var dc = DataContext as DataSource;
+            DronokWin dronok=new DronokWin { DataContext = dc };
+            dronok.ShowDialog();
         }
 
         private void menuitemRepterek_Click(object sender, RoutedEventArgs e)

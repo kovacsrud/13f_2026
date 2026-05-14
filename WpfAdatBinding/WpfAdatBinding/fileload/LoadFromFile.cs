@@ -23,5 +23,18 @@ namespace WpfAdatBinding.fileload
 
             return airports;
         }
+
+        public static List<Dron> LoadDrones(string fajl,char hatarolo,int start = 1)
+        {
+            List<Dron> dronok= new List<Dron>();
+            var sorok = File.ReadAllLines(fajl, Encoding.UTF8);
+
+            for (int i = start; i < sorok.Length; i++)
+            {
+                dronok.Add(new Dron(sorok[i], hatarolo));
+            }
+
+            return dronok;
+        }
     }
 }
