@@ -10,6 +10,8 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="6*"/>
             <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
@@ -18,6 +20,8 @@
         <Image x:Name="kep" Grid.ColumnSpan="2"/>
         <Button x:Name="buttonBetoltes" Content="Képek kiválasztása" Grid.Row="1" Width="200" Height="30" Click="buttonBetoltes_Click"/>
         <Button x:Name="buttonIdozito" Content="Start" Grid.Column="1" Grid.Row="1" Width="200" Height="30" IsEnabled="False" Click="buttonIdozito_Click"/>
+        
+              
 
 
     </Grid>

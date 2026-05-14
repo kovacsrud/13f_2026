@@ -21,11 +21,13 @@ namespace WpfSlideshow
         int szamlalo = 0;
         DispatcherTimer timer;
         string[] kepfajlok;
+        int speed = 1;
         public MainWindow()
         {
             InitializeComponent();
             timer= new DispatcherTimer(TimeSpan.FromSeconds(1),DispatcherPriority.Normal,Kepcsere,Dispatcher.CurrentDispatcher);
             timer.Stop();
+           
         }
 
         private void Kepcsere(object? sender, EventArgs e)
