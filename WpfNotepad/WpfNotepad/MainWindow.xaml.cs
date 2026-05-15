@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using Microsoft.Win32;
+using System.IO;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -23,7 +25,20 @@ namespace WpfNotepad
 
         private void menuitemMegnyitas_Click(object sender, RoutedEventArgs e)
         {
-
+            OpenFileDialog dialog = new OpenFileDialog();
+            dialog.Filter = ".txt|*.txt|.csv|*.csv|.html|*.html|minden fájl|*.*";
+            if (dialog.ShowDialog()==true)
+            {
+                try
+                {
+                    textboxSzoveg.Text=File.ReadAllText(dialog.FileName,Encoding.UTF8);
+                    this.Title = dialog.FileName;
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);                    
+                }
+            }
         }
 
         private void menuitemMentes_Click(object sender, RoutedEventArgs e)
@@ -38,7 +53,7 @@ namespace WpfNotepad
 
         private void menuitemKilepes_Click(object sender, RoutedEventArgs e)
         {
-
+            Environment.Exit(0);
         }
 
         private void menuitemKivagas_Click(object sender, RoutedEventArgs e)
