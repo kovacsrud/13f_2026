@@ -62,16 +62,37 @@ namespace WpfNotepad
 
         private void menuitemMentes_Click(object sender, RoutedEventArgs e)
         {
-
+            if (this.Title=="Notepad")
+            {
+                MentesMaskent();
+            } else
+            {
+                try
+                {
+                    File.WriteAllText(this.Title,textboxSzoveg.Text,Encoding.UTF8);
+                    modositva = false;
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
         }
 
         private void menuitemMentesMaskent_Click(object sender, RoutedEventArgs e)
         {
-
+            MentesMaskent();
         }
 
         private void menuitemKilepes_Click(object sender, RoutedEventArgs e)
         {
+            if (modositva)
+            {
+                var valasz = MessageBox.Show("Akarja menteni a változásokat?","Figyelem!",MessageBoxButton.YesNo,MessageBoxImage.Question);
+                if (valasz == MessageBoxResult.Yes) {
+                    MentesMaskent();
+                }
+            }
             Environment.Exit(0);
         }
 
@@ -93,6 +114,18 @@ namespace WpfNotepad
         private void textboxSzoveg_TextChanged(object sender, TextChangedEventArgs e)
         {
             modositva = true;
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if (modositva)
+            {
+                var valasz = MessageBox.Show("Akarja menteni a változásokat?", "Figyelem!", MessageBoxButton.YesNo, MessageBoxImage.Question);
+                if (valasz == MessageBoxResult.Yes)
+                {
+                    MentesMaskent();
+                }
+            }
         }
     }
 }
