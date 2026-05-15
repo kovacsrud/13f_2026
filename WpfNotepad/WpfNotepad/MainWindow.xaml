@@ -21,17 +21,17 @@
                 <MenuItem x:Name="menuitemKilepes" Header="Kilépés" Click="menuitemKilepes_Click" />
             </MenuItem>
             <MenuItem Header="Szerkesztés">
-                <MenuItem x:Name="menuitemKivagas" Header="Kivágás" Click="menuitemKivagas_Click"/>
-                <MenuItem x:Name="menuitemMasolas" Header="Másolás" Click="menuitemMasolas_Click" />
+                <MenuItem x:Name="menuitemKivagas" Header="Kivágás" Click="menuitemKivagas_Click" IsEnabled="False"/>
+                <MenuItem x:Name="menuitemMasolas" Header="Másolás" Click="menuitemMasolas_Click" IsEnabled="False" />
                 <Separator  Height="2" Background="Black"/>
-                <MenuItem x:Name="menuitemBeillesztes" Header="Beillesztés" Click="menuitemBeillesztes_Click"/>
+                <MenuItem x:Name="menuitemBeillesztes" Header="Beillesztés" Click="menuitemBeillesztes_Click" IsEnabled="False"/>
             </MenuItem>
             <MenuItem Header="Súgó">
                 <MenuItem Header="Névjegy" />
             </MenuItem>
             
         </Menu>
-        <TextBox x:Name="textboxSzoveg" Grid.Row="1" FontSize="24" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True" VerticalScrollBarVisibility="Visible" TextChanged="textboxSzoveg_TextChanged"/>
+        <TextBox x:Name="textboxSzoveg" Grid.Row="1" FontSize="24" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True" VerticalScrollBarVisibility="Visible" TextChanged="textboxSzoveg_TextChanged" SelectionChanged="textboxSzoveg_SelectionChanged"/>
 
     </Grid>
 </Window>

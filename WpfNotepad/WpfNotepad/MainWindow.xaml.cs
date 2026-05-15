@@ -98,17 +98,27 @@ namespace WpfNotepad
 
         private void menuitemKivagas_Click(object sender, RoutedEventArgs e)
         {
-
+            if (textboxSzoveg.SelectedText.Length>0)
+            {
+                Clipboard.SetDataObject(textboxSzoveg.SelectedText);
+                textboxSzoveg.Text = textboxSzoveg.Text.Remove(textboxSzoveg.CaretIndex,textboxSzoveg.SelectedText.Length);
+                menuitemBeillesztes.IsEnabled= true;
+            }
         }
 
         private void menuitemMasolas_Click(object sender, RoutedEventArgs e)
         {
-
+            if (textboxSzoveg.SelectedText.Length > 0)
+            {
+                Clipboard.SetDataObject(textboxSzoveg.SelectedText);
+                menuitemBeillesztes.IsEnabled = true;
+            }
         }
 
         private void menuitemBeillesztes_Click(object sender, RoutedEventArgs e)
         {
-
+            var vagolapSzoveg = Clipboard.GetText();
+            textboxSzoveg.Text = textboxSzoveg.Text.Insert(textboxSzoveg.CaretIndex,vagolapSzoveg);
         }
 
         private void textboxSzoveg_TextChanged(object sender, TextChangedEventArgs e)
@@ -125,6 +135,20 @@ namespace WpfNotepad
                 {
                     MentesMaskent();
                 }
+            }
+        }
+
+        private void textboxSzoveg_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+            if (textboxSzoveg.SelectedText.Length>0)
+            {
+                menuitemKivagas.IsEnabled = true;
+                menuitemMasolas.IsEnabled= true;
+            }
+            if (textboxSzoveg.SelectedText.Length<1)
+            {
+                menuitemKivagas.IsEnabled = false;
+                menuitemMasolas.IsEnabled = false;
             }
         }
     }
