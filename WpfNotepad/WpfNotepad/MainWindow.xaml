@@ -31,7 +31,7 @@
             </MenuItem>
             
         </Menu>
-        <TextBox x:Name="textboxSzoveg" Grid.Row="1" FontSize="24" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True" VerticalScrollBarVisibility="Visible"/>
+        <TextBox x:Name="textboxSzoveg" Grid.Row="1" FontSize="24" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True" VerticalScrollBarVisibility="Visible" TextChanged="textboxSzoveg_TextChanged"/>
 
     </Grid>
 </Window>

@@ -18,6 +18,7 @@ namespace WpfNotepad
     /// </summary>
     public partial class MainWindow : Window
     {
+        bool modositva=false;
         public MainWindow()
         {
             InitializeComponent();
@@ -37,6 +38,24 @@ namespace WpfNotepad
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message, "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);                    
+                }
+            }
+        }
+
+        private void MentesMaskent()
+        {
+            SaveFileDialog dialog = new SaveFileDialog();
+            dialog.Filter = ".txt|*.txt|.csv|*.csv|.html|*.html|minden fájl|*.*";
+            if (dialog.ShowDialog() == true) {
+                try
+                {
+                    File.WriteAllText(dialog.FileName,textboxSzoveg.Text,Encoding.UTF8);
+                    this.Title = dialog.FileName;
+                    modositva = false;
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Hiba", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
         }
@@ -69,6 +88,11 @@ namespace WpfNotepad
         private void menuitemBeillesztes_Click(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        private void textboxSzoveg_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            modositva = true;
         }
     }
 }
