@@ -15,7 +15,13 @@
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
-        <ListBox x:Name="listboxFajlok"  Width="200" Margin="0,10,0,10" SelectionChanged="listboxFajlok_SelectionChanged"/>
+        <ListBox x:Name="listboxFajlok" ItemsSource="{Binding FileItems,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  Width="200" Margin="0,10,0,10" SelectionChanged="listboxFajlok_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding FileName}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
         <Image x:Name="imageKep" Grid.Column="1" />
         <Button x:Name="buttonTallozas" Content="Fájlok hozzáadása" Width="200" Height="30" Grid.Row="1" Grid.ColumnSpan="2" Click="buttonTallozas_Click"/>
 
