@@ -1,4 +1,5 @@
 ﻿using Microsoft.Win32;
+using System.IO;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Windows;
@@ -20,13 +21,27 @@ namespace WpfFileList
     public partial class MainWindow : Window
     {
         public FileList FileList { get; set; }
+        string jsonFajl = "files.json";
         public MainWindow()
         {
             InitializeComponent();
             FileList = new FileList();
 
+            if (File.Exists(jsonFajl))
+            {
+                try
+                {
+                    FileList = JsonTools.JsonToList(jsonFajl);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
 
             listboxFajlok.DataContext=FileList;
+
+
         }
 
         private void buttonTallozas_Click(object sender, RoutedEventArgs e)
@@ -54,6 +69,18 @@ namespace WpfFileList
             }
 
 
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            try
+            {
+                JsonTools.ListToJson(jsonFajl,FileList);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);                
+            }
         }
     }
 }
